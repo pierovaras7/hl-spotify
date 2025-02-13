@@ -1,1 +1,71 @@
-<h1>Hola</h1>
+<div class="game-container flex flex-col items-center justify-center min-h-screen bg-gray-900 text-white">
+    <!-- Pantalla de carga -->
+    <div *ngIf="loading" class="loading text-center text-xl font-semibold">
+      <p class="animate-pulse">Cargando datos...</p>
+    </div>
+  
+    <!-- Pantalla de juego -->
+    <div *ngIf="!loading && !gameOver" class="text-center space-y-6">
+      <h1 class="text-3xl font-bold">Higher or Lower: {{ getMetricLabel(mood) }}</h1>
+      
+      <!-- Mostrar el ítem actual -->
+      <div class="bg-gray-800 p-6 rounded-lg shadow-lg max-w-md mx-auto">
+        <!-- Si es un track -->
+        <div *ngIf="isTrackItem(currentItem!)">
+            <h2 class="text-2xl font-semibold">Canción: {{ currentItem.nombre }}</h2>
+            <p>Álbum: {{ currentItem.album }}</p>
+            <p>Artista: {{ currentItem.artista }}</p>
+        </div>
+        
+        <!-- Si es un álbum -->
+        <div *ngIf="isAlbumItem(currentItem!)">
+            <h2 class="text-2xl font-semibold">Álbum: {{ currentItem.album }}</h2>
+            <p>Artista: {{ currentItem.artists }}</p>
+            <p>Popularidad: {{ currentItem.popularity }}</p>
+        </div>
+        
+        <!-- Si es un artista -->
+        <div *ngIf="isArtistItem(currentItem!)">
+            <h2 class="text-2xl font-semibold">Artista: {{ currentItem.artist }}</h2>
+            <p>Seguidores: {{ currentItem.listeners }}</p>
+        </div>
+      </div>
+  
+      <!-- Mostrar VS -->
+      <div class="vs-container text-4xl font-bold my-4">VS</div>
+  
+      <!-- Mostrar el próximo ítem con botones de elección -->
+      <div class="item-card bg-gray-800 p-6 rounded-lg shadow-lg max-w-md mx-auto">
+        <ng-container *ngIf="isTrackItem(nextItem!)">
+            <h2 class="text-2xl font-semibold">Canción: {{ nextItem.nombre }}</h2>
+            <p>Álbum: {{ nextItem.album }}</p>
+            <p>Artista: {{ nextItem.artista }}</p>
+        </ng-container>
+        
+        <ng-container *ngIf="isAlbumItem(nextItem!)">
+            <h2 class="text-2xl font-semibold">Álbum: {{ nextItem.album }}</h2>
+            <p>Artista: {{ nextItem.artists }}</p>
+        </ng-container>
+  
+        <ng-container *ngIf="isArtistItem(nextItem!)">
+            <h2 class="text-2xl font-semibold">Artista: {{ nextItem.artist }}</h2>
+        </ng-container>
+  
+        <p class="mt-4">¿Tiene más o menos {{ getMetricLabel(mood) }}?</p>
+  
+        <div class="buttons flex gap-4 justify-center mt-4">
+          <button (click)="guess(true)" class="px-4 py-2 bg-green-500 hover:bg-green-600 text-white font-semibold rounded-lg shadow">Más</button>
+          <button (click)="guess(false)" class="px-4 py-2 bg-red-500 hover:bg-red-600 text-white font-semibold rounded-lg shadow">Menos</button>
+        </div>
+      </div>
+  
+      <!-- Mostrar puntaje -->
+      <div class="score text-lg font-medium mt-4">
+        <p>Puntaje: <span class="text-yellow-400 font-bold">{{ score }}</span></p>
+      </div>
+    </div>
+  
+    <!-- Pantalla de Game Over -->
+    <app-game-over *ngIf="gameOver" [score]="score" (restartGame)="restartGame()"></app-game-over>
+
+  </div>

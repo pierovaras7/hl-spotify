@@ -1,0 +1,802 @@
+[
+    {
+        "nombre": "I Can Do It With a Broken Heart",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "id": "4q5YezDOIPcoLr8R81x9qy",
+        "reproducciones": 591254532
+    },
+    {
+        "nombre": "Blank Space (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "45wMBGri1PORPjM9PwFfrS",
+        "reproducciones": 274421721
+    },
+    {
+        "nombre": "Look What You Made Me Do",
+        "artista": "Taylor Swift",
+        "album": "reputation",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2732bc33ce6acd39112e88b4c0e",
+        "id": "1P17dC1amhFzptugyAO7Il",
+        "reproducciones": 1274450966
+    },
+    {
+        "nombre": "Love Story (Taylor’s Version)",
+        "artista": "Taylor Swift",
+        "album": "Love Story (Taylor’s Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273877ea8fa223c26f19aaef92d",
+        "id": "3CeCwYWvdfXbZLXFhBrbnf",
+        "reproducciones": 931738901
+    },
+    {
+        "nombre": "So High School",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273335d581b7a70f0fa41f6520b",
+        "id": "1GP8VW5Wk2w2obkWjGCGXd",
+        "reproducciones": 240227048
+    },
+    {
+        "nombre": "Cruel Summer",
+        "artista": "Taylor Swift",
+        "album": "Lover",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+        "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+        "reproducciones": 2759262535
+    },
+    {
+        "nombre": "Fortnight (feat. Post Malone)",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "id": "2OzhQlSqBEmt7hmkYxfT6m",
+        "reproducciones": 838694476
+    },
+    {
+        "nombre": "I Knew You Were Trouble (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Red (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273563151cc3a0528d8228998c8",
+        "id": "6tNSmBKSjFV1366ASuULfZ",
+        "reproducciones": 431753652
+    },
+    {
+        "nombre": "august",
+        "artista": "Taylor Swift",
+        "album": "folklore",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+        "id": "3hUxzQpSfdDqwM3ZTFQY0K",
+        "reproducciones": 1381219108
+    },
+    {
+        "nombre": "You Belong With Me (Taylor’s Version)",
+        "artista": "Taylor Swift",
+        "album": "Fearless (Taylor’s Version): The I Remember What You Said Last Night Chapter",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739b70e3eec70566056e113166",
+        "id": "4P7LVHDbzn7aI6wWRh5AHc",
+        "reproducciones": 829355393
+    },
+    {
+        "nombre": "Anti-Hero",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "0V3wPSX9ygBnCm8psDIegu",
+        "reproducciones": 1771726660
+    },
+    {
+        "nombre": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version) [Deluxe]",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+        "id": "6qAcApH8obo8eqatCKUHd9",
+        "reproducciones": 105863317
+    },
+    {
+        "nombre": "Lover",
+        "artista": "Taylor Swift",
+        "album": "Lover",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+        "id": "1dGr1c8CrMLDpV6mPbImSI",
+        "reproducciones": 1678163035
+    },
+    {
+        "nombre": "Style (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "1hjRhYpWyqDpPahmSlUTlc",
+        "reproducciones": 310218201
+    },
+    {
+        "nombre": "...Ready For It?",
+        "artista": "Taylor Swift",
+        "album": "reputation",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+        "id": "2yLa0QULdQr0qAIvVwN6B5",
+        "reproducciones": 853794482
+    },
+    {
+        "nombre": "Who’s Afraid of Little Old Me?",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "id": "36t6frENUtCYKuZus6aYDO",
+        "reproducciones": 325352773
+    },
+    {
+        "nombre": "cardigan",
+        "artista": "Taylor Swift",
+        "album": "folklore",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+        "id": "4R2kfaDFhslZEMJqAFNpdd",
+        "reproducciones": 1560825619
+    },
+    {
+        "nombre": "Down Bad",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "id": "2F3N9tdombb64aW6VtZOdo",
+        "reproducciones": 396398496
+    },
+    {
+        "nombre": "my tears ricochet",
+        "artista": "Taylor Swift",
+        "album": "folklore",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+        "id": "1MgV7FIyNxIG7WzMRJV5HC",
+        "reproducciones": 630162433
+    },
+    {
+        "nombre": "Guilty as Sin?",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+        "id": "799KrpEbhZp0MHeiA8YK9P",
+        "reproducciones": 375571254
+    },
+    {
+        "nombre": "willow",
+        "artista": "Taylor Swift",
+        "album": "evermore",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be",
+        "id": "0lx2cLdOt3piJbcaXIV74f",
+        "reproducciones": 953166619
+    },
+    {
+        "nombre": "Florida!!! (feat. Florence + The Machine)",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "id": "3ZVFcD8Wlw9T9klGqmJf9F",
+        "reproducciones": 250921836
+    },
+    {
+        "nombre": "The Prophecy",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+        "id": "18WFFUIsewmA8g31KAeo3e",
+        "reproducciones": 177106212
+    },
+    {
+        "nombre": "Karma",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "7KokYm8cMIXCsGVmUvKtqf",
+        "reproducciones": 890827327
+    },
+    {
+        "nombre": "Is It Over Now? (Taylor's Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "1Iq8oo9XkmmvCQiGOfORiz",
+        "reproducciones": 497130467
+    },
+    {
+        "nombre": "How Did It End?",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+        "id": "5Bedn0svl0ZD7RGmJkmKKw",
+        "reproducciones": 152528949
+    },
+    {
+        "nombre": "Don’t Blame Me",
+        "artista": "Taylor Swift",
+        "album": "reputation",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+        "id": "1R0a2iXumgCiFb7HEZ7gUE",
+        "reproducciones": 1325923748
+    },
+    {
+        "nombre": "You’re Losing Me (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "You're Losing Me (From The Vault)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734fe1868aa6838eb595f3673a",
+        "id": "3CWq0pAKKTWb0K4yiglDc4",
+        "reproducciones": 291299940
+    },
+    {
+        "nombre": "So Long, London",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27308c74a3a99b01a6d3933b169",
+        "id": "0mWVScJbxO3tbXuiZOxYZE",
+        "reproducciones": 316319008
+    },
+    {
+        "nombre": "us. (feat. Taylor Swift)",
+        "artista": "Gracie Abrams",
+        "album": "The Secret of Us",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+        "id": "0hhzNPE68LWLfgZwdpxVdR",
+        "reproducciones": 170708015
+    },
+    {
+        "nombre": "Say Don't Go (Taylor's Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "4NioO5R9sHEZh4cGzMHyNt",
+        "reproducciones": 227453539
+    },
+    {
+        "nombre": "Wildest Dreams (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Wildest Dreams (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273eb10050f6fe8e2783a91a4b1",
+        "id": "1Ov37jtRQ2YNAe8HzfczkL",
+        "reproducciones": 852454277
+    },
+    {
+        "nombre": "Enchanted (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "3sW3oSbzsfecv9XoUdGs7h",
+        "reproducciones": 382120209
+    },
+    {
+        "nombre": "You Need To Calm Down",
+        "artista": "Taylor Swift",
+        "album": "Lover",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+        "id": "6RRNNciQGZEXnqk8SQ9yv5",
+        "reproducciones": 1027685992
+    },
+    {
+        "nombre": "But Daddy I Love Him",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "id": "5og4Qzt92jJzVDkOtSEilb",
+        "reproducciones": 284384053
+    },
+    {
+        "nombre": "\"Slut!\" (Taylor's Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "71BqAINEnezjQfxE4VuJfq",
+        "reproducciones": 349703689
+    },
+    {
+        "nombre": "New Romantics (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "2vPMoMDXxu9uX1igWZmXSG",
+        "reproducciones": 171055603
+    },
+    {
+        "nombre": "Lavender Haze",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "5jQI2r1RdgtuT8S3iG8zFC",
+        "reproducciones": 796319191
+    },
+    {
+        "nombre": "We Are Never Ever Getting Back Together (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Red (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273563151cc3a0528d8228998c8",
+        "id": "31CdkzHnMbvJuKZvtCQfR6",
+        "reproducciones": 410107939
+    },
+    {
+        "nombre": "Out Of The Woods (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "045ZeOHPIzhxxsm8bq5kyE",
+        "reproducciones": 180691091
+    },
+    {
+        "nombre": "Mine (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "7G0gBu6nLdhFDPRLc0HdDG",
+        "reproducciones": 219851790
+    },
+    {
+        "nombre": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+        "artista": "ZAYN",
+        "album": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2",
+        "id": "2y5aJvzXhHPA94U5GFAcXe",
+        "reproducciones": 1820533405
+    },
+    {
+        "nombre": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "5KD6AEm19QnMbfWpfoOHMl",
+        "reproducciones": 353616345
+    },
+    {
+        "nombre": "All Of The Girls You Loved Before",
+        "artista": "Taylor Swift",
+        "album": "All Of The Girls You Loved Before",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738481d8f15859aa5bae75ee17",
+        "id": "4P9Q0GojKVXpRTJCaL3kyy",
+        "reproducciones": 416321736
+    },
+    {
+        "nombre": "Delicate",
+        "artista": "Taylor Swift",
+        "album": "reputation",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2732bc33ce6acd39112e88b4c0e",
+        "id": "6NFyWDv5CjfwuzoCkw47Xf",
+        "reproducciones": 1111898339
+    },
+    {
+        "nombre": "The Tortured Poets Department",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "id": "3NMrVbIVWT3fPXBj0rNDKG",
+        "reproducciones": 252147988
+    },
+    {
+        "nombre": "I Can See You (Taylor’s Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "5kHMfzgLZP95O9NBy0ku4v",
+        "reproducciones": 292468649
+    },
+    {
+        "nombre": "Shake It Off (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "3pv7Q5v2dpdefwdWIvE7yH",
+        "reproducciones": 174842507
+    },
+    {
+        "nombre": "Midnight Rain",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "3rWDp9tBPQR9z6U5YyRSK4",
+        "reproducciones": 745256289
+    },
+    {
+        "nombre": "22 (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Red (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273563151cc3a0528d8228998c8",
+        "id": "2T9WeqSMJJb8YBDHPYGU4p",
+        "reproducciones": 343394936
+    },
+    {
+        "nombre": "Back To December (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "79uDOz0zuuWS7HWxzMmTa2",
+        "reproducciones": 239483995
+    },
+    {
+        "nombre": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Red (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+        "id": "5enxwA8aAbwZbf5qCHORXi",
+        "reproducciones": 978801491
+    },
+    {
+        "nombre": "Welcome To New York (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "1hR8BSuEqPCCZfv93zzzz9",
+        "reproducciones": 149261871
+    },
+    {
+        "nombre": "Snow On The Beach (feat. More Lana Del Rey)",
+        "artista": "Taylor Swift",
+        "album": "Midnights (The Til Dawn Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
+        "id": "4zmKGsrXjLmljb5fTaBTot",
+        "reproducciones": 227891064
+    },
+    {
+        "nombre": "Mean (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "30Y4CV7A6YqtQtTTo7Ue4j",
+        "reproducciones": 118713991
+    },
+    {
+        "nombre": "Clean (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "2ByBBvpR9b7IynvRmnG7kG",
+        "reproducciones": 132586801
+    },
+    {
+        "nombre": "Hits Different",
+        "artista": "Taylor Swift",
+        "album": "Midnights (The Til Dawn Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
+        "id": "3xYJScVfxByb61dYHTwiby",
+        "reproducciones": 227435297
+    },
+    {
+        "nombre": "Getaway Car",
+        "artista": "Taylor Swift",
+        "album": "reputation",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2732bc33ce6acd39112e88b4c0e",
+        "id": "0VE4kBnHJUgtMf0dy6DRmW",
+        "reproducciones": 754765140
+    },
+    {
+        "nombre": "All You Had To Do Was Stay (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "6GXgd1BPD9bUpqw5AntGV5",
+        "reproducciones": 125444446
+    },
+    {
+        "nombre": "My Boy Only Breaks His Favorite Toys",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27308c74a3a99b01a6d3933b169",
+        "id": "05msZuGKP3OCUGQnvLBOf4",
+        "reproducciones": 298934690
+    },
+    {
+        "nombre": "Bejeweled",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "3qoftcUZaUOncvIYjFSPdE",
+        "reproducciones": 619955984
+    },
+    {
+        "nombre": "Paper Rings",
+        "artista": "Taylor Swift",
+        "album": "Lover",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+        "id": "4y5bvROuBDPr5fuwXbIBZR",
+        "reproducciones": 725500675
+    },
+    {
+        "nombre": "I Wish You Would (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "43y1WpBdnEy5TR9aZoSQL9",
+        "reproducciones": 110309879
+    },
+    {
+        "nombre": "Dear John (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "1zU8j1x3yi9xalMF96pzKp",
+        "reproducciones": 127197585
+    },
+    {
+        "nombre": "You're On Your Own, Kid",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "4D7BCuvgdJlYvlX5WlN54t",
+        "reproducciones": 696912704
+    },
+    {
+        "nombre": "The Man",
+        "artista": "Taylor Swift",
+        "album": "Lover",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+        "id": "3RauEVgRgj1IuWdJ9fDs70",
+        "reproducciones": 886095111
+    },
+    {
+        "nombre": "Better Than Revenge (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "0NwGC0v03ysCYINtg6ns58",
+        "reproducciones": 154068616
+    },
+    {
+        "nombre": "If This Was A Movie (Taylor’s Version)",
+        "artista": "Taylor Swift",
+        "album": "If This Was A Movie (Taylor’s Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273afe932e498abc159219bd2f3",
+        "id": "0kAZ3H6G9Zac4PMpmobMkj",
+        "reproducciones": 79226001
+    },
+    {
+        "nombre": "Suburban Legends (Taylor's Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "1989 (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+        "id": "6T0sEnqjmHISIKwFETeeiP",
+        "reproducciones": 131736316
+    },
+    {
+        "nombre": "Foolish One (Taylor’s Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "4s8BIKx4Zh6ryAEz8RTlaU",
+        "reproducciones": 112379011
+    },
+    {
+        "nombre": "Maroon",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "3eX0NZfLtGzoLUxPNvRfqm",
+        "reproducciones": 519724626
+    },
+    {
+        "nombre": "When Emma Falls in Love (Taylor’s Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "0zo975x58DlXbZllWvfYhg",
+        "reproducciones": 94501548
+    },
+    {
+        "nombre": "Vigilante Shit",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "1xwAWUI6Dj0WGC3KiUPN0O",
+        "reproducciones": 457257085
+    },
+    {
+        "nombre": "Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "4e3ZNTAV6PCrdYMUrUlMpQ",
+        "reproducciones": 102595355
+    },
+    {
+        "nombre": "Mastermind",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "7FmYn9e7KHMXcxqGSj9LjH",
+        "reproducciones": 398688758
+    },
+    {
+        "nombre": "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27345731927c3396bb4c0276543",
+        "id": "7l2tmgUhV7Y2aJHjiszifg",
+        "reproducciones": 411668095
+    },
+    {
+        "nombre": "Long Live (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "4hqJ4bSlYJOXb6Z4SRmzxs",
+        "reproducciones": 173345019
+    },
+    {
+        "nombre": "The Great War",
+        "artista": "Taylor Swift",
+        "album": "Midnights (3am Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+        "id": "3UMrglJeju5yWyYIW6o99b",
+        "reproducciones": 322481860
+    },
+    {
+        "nombre": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
+        "artista": "Taylor Swift",
+        "album": "Safe & Sound (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734f719ea76d1b7048664b8fec",
+        "id": "2RJnNdu4pb3MypbBroHU0T",
+        "reproducciones": 68673335
+    },
+    {
+        "nombre": "Timeless (Taylor’s Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "1HCdems7PQZRj42QDWLA0A",
+        "reproducciones": 104651641
+    },
+    {
+        "nombre": "The Way I Loved You (Taylor’s Version)",
+        "artista": "Taylor Swift",
+        "album": "Fearless (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de",
+        "id": "22bPsP2jCgbLUvh82U0Z3M",
+        "reproducciones": 473425230
+    },
+    {
+        "nombre": "Gorgeous",
+        "artista": "Taylor Swift",
+        "album": "reputation",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2732bc33ce6acd39112e88b4c0e",
+        "id": "1ZY1PqizIl78geGM4xWlEA",
+        "reproducciones": 658104542
+    },
+    {
+        "nombre": "The Story Of Us (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "6dTA6y0C2ReQklntzZl8l3",
+        "reproducciones": 119437224
+    },
+    {
+        "nombre": "Question...?",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "0heeNYlwOGuUSe7TgUD27B",
+        "reproducciones": 326683058
+    },
+    {
+        "nombre": "champagne problems",
+        "artista": "Taylor Swift",
+        "album": "evermore",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be",
+        "id": "0sY6ZUTh4yoctD8VIXz339",
+        "reproducciones": 712870439
+    },
+    {
+        "nombre": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "4ABYxlb92WBIjHu7TIKmml",
+        "reproducciones": 98635418
+    },
+    {
+        "nombre": "Eyes Open (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Eyes Open (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d5cc403148a5161b4561cf61",
+        "id": "2NIBaWXdjaTDmytjjwbEfP",
+        "reproducciones": 44409291
+    },
+    {
+        "nombre": "Ours (Taylor’s Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "3yNJkriPzWjkkDAWHIAVUq",
+        "reproducciones": 67861145
+    },
+    {
+        "nombre": "Sweet Nothing",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "0wavGRldH0AWyu2zvTz8zb",
+        "reproducciones": 315303022
+    },
+    {
+        "nombre": "Sparks Fly (Taylor’s Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "3MytWN8L7shNYzGl4tAKRp",
+        "reproducciones": 150227923
+    },
+    {
+        "nombre": "exile (feat. Bon Iver)",
+        "artista": "Taylor Swift",
+        "album": "folklore",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+        "id": "4pvb0WLRcMtbPGmtejJJ6y",
+        "reproducciones": 868019739
+    },
+    {
+        "nombre": "Red",
+        "artista": "Taylor Swift",
+        "album": "Red",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+        "id": "0cITLOYn1Sv4q27zZPqlNK",
+        "reproducciones": 267106177
+    },
+    {
+        "nombre": "Last Kiss (Taylor's Version)",
+        "artista": "Taylor Swift",
+        "album": "Speak Now (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+        "id": "59KOoHFcw5XfICnO57holu",
+        "reproducciones": 102051317
+    },
+    {
+        "nombre": "Delicate - Recorded at The Tracking Room Nashville",
+        "artista": "Taylor Swift",
+        "album": "Spotify Singles",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bae8f095c58e137855f6d230",
+        "id": "1Fj0T1XKuhRu7EZzJ7NJIK",
+        "reproducciones": 44244730
+    },
+    {
+        "nombre": "Paris",
+        "artista": "Taylor Swift",
+        "album": "Midnights (3am Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+        "id": "7712gjoih4QoDbXpljEk21",
+        "reproducciones": 209068857
+    },
+    {
+        "nombre": "The Alchemy",
+        "artista": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "id": "1dhMTsEZz6ZEquGvmzVoHn",
+        "reproducciones": 200751054
+    },
+    {
+        "nombre": "Message In A Bottle (Taylor's Version) (From The Vault)",
+        "artista": "Taylor Swift",
+        "album": "Red (Taylor's Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+        "id": "3z6XUommYDWPHeFhmhhT6j",
+        "reproducciones": 222994096
+    },
+    {
+        "nombre": "This Love (Taylor’s Version)",
+        "artista": "Taylor Swift",
+        "album": "This Love (Taylor’s Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b7fe6e9265a84c3b6eb66d34",
+        "id": "4d1CG5ei1E2vGbvmgf5KKv",
+        "reproducciones": 291523835
+    },
+    {
+        "nombre": "Labyrinth",
+        "artista": "Taylor Swift",
+        "album": "Midnights",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "id": "0A1JLUlkZkp2EFrosoNQi0",
+        "reproducciones": 321857250
+    },
+    {
+        "nombre": "Would've, Could've, Should've",
+        "artista": "Taylor Swift",
+        "album": "Midnights (3am Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+        "id": "0aV5uARAknQgYhBaK944FP",
+        "reproducciones": 309151826
+    }
+]

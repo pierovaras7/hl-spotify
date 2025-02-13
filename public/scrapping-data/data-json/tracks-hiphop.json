@@ -1,0 +1,802 @@
+[
+    {
+        "nombre": "Still D.R.E.",
+        "artista": "Dr. Dre",
+        "album": "2001",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+        "id": "503OTo2dSqe7qk76rgsbep",
+        "reproducciones": 1592448386
+    },
+    {
+        "nombre": "Hypnotize - 2014 Remaster",
+        "artista": "The Notorious B.I.G.",
+        "album": "Life After Death (2014 Remastered Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "id": "7KwZNVEaqikRSBSpyhXK2j",
+        "reproducciones": 1299579070
+    },
+    {
+        "nombre": "Doo Wop (That Thing)",
+        "artista": "Ms. Lauryn Hill",
+        "album": "The Miseducation of Lauryn Hill",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9",
+        "id": "0uEp9E98JB5awlA084uaIg",
+        "reproducciones": 530098216
+    },
+    {
+        "nombre": "Do For Love",
+        "artista": "2Pac",
+        "album": "R U Still Down? [Remember Me]",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738e0ff34ad21955b6f4da9b86",
+        "id": "4AE7Lj39VnSZNOmGH2iZaq",
+        "reproducciones": 383842654
+    },
+    {
+        "nombre": "Shook Ones, Pt. II",
+        "artista": "Mobb Deep",
+        "album": "The Infamous",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a2203fa0656cede30f879b97",
+        "id": "33ZXjLCpiINn8eQIDYEPTD",
+        "reproducciones": 586640725
+    },
+    {
+        "nombre": "Nuthin' But A \"G\" Thang",
+        "artista": "Dr. Dre",
+        "album": "The Chronic",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739710731c9d7baec635f1bab1",
+        "id": "5Tbpp3OLLClPJF8t1DmrFD",
+        "reproducciones": 466755595
+    },
+    {
+        "nombre": "I Got 5 On It",
+        "artista": "Luniz",
+        "album": "Operation Stackola",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c1ea4aac1ad07a38c59dd30c",
+        "id": "4IYKjN1DrYzxKXt0umJqsG",
+        "reproducciones": 562592645
+    },
+    {
+        "nombre": "Still Not a Player (feat. Joe) - Radio Version",
+        "artista": "Big Pun",
+        "album": "Capital Punishment",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738c7a8e68dc5c20bb72f713f2",
+        "id": "3GKL13lkM5nRc4zC1lIOrR",
+        "reproducciones": 367092068
+    },
+    {
+        "nombre": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+        "artista": "Wu-Tang Clan",
+        "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735901aaa980d3e714bf01171c",
+        "id": "119c93MHjrDLJTApCVGpvx",
+        "reproducciones": 489799482
+    },
+    {
+        "nombre": "Juicy - 2005 Remaster",
+        "artista": "The Notorious B.I.G.",
+        "album": "Ready to Die (The Remaster)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+        "id": "5ByAIlEEnxYdvpnezg7HTX",
+        "reproducciones": 808227678
+    },
+    {
+        "nombre": "Insane in the Brain",
+        "artista": "Cypress Hill",
+        "album": "Black Sunday",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c8d7445dbee75973efa970e8",
+        "id": "1oTHteQbmJw15rPxPVXUTv",
+        "reproducciones": 447607709
+    },
+    {
+        "nombre": "N.Y. State of Mind",
+        "artista": "Nas",
+        "album": "Illmatic",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273045fc920ecf4f8094888ec26",
+        "id": "0trHOzAhNpGCsGBEu7dOJo",
+        "reproducciones": 327759035
+    },
+    {
+        "nombre": "Check Yo Self - Remix",
+        "artista": "Ice Cube",
+        "album": "Bootlegs And B-Sides",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "id": "3NGT0Td7H4Is1qrlDQJxma",
+        "reproducciones": 285379268
+    },
+    {
+        "nombre": "Dear Mama",
+        "artista": "2Pac",
+        "album": "Me Against The World",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "id": "6tDxrq4FxEL2q15y37tXT9",
+        "reproducciones": 342555280
+    },
+    {
+        "nombre": "Survival of the Fittest",
+        "artista": "Mobb Deep",
+        "album": "The Infamous",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a2203fa0656cede30f879b97",
+        "id": "7N1Vjtzr1lmmCW9iasQ8YO",
+        "reproducciones": 260001887
+    },
+    {
+        "nombre": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
+        "artista": "The Notorious B.I.G.",
+        "album": "Life After Death (2014 Remastered Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "id": "4INDiWSKvqSKDEu7mh8HFz",
+        "reproducciones": 541335955
+    },
+    {
+        "nombre": "Can I Kick It?",
+        "artista": "A Tribe Called Quest",
+        "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "id": "3Ti0GdlrotgwsAVBBugv0I",
+        "reproducciones": 310173682
+    },
+    {
+        "nombre": "ATLiens",
+        "artista": "Outkast",
+        "album": "ATLiens",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+        "id": "2vfvGlqCB7oertO5VLE0sz",
+        "reproducciones": 213404647
+    },
+    {
+        "nombre": "93 'Til Infinity",
+        "artista": "Souls Of Mischief",
+        "album": "93 'til Infinity",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27343969ecfe687484121805478",
+        "id": "0PV1TFUMTBrDETzW6KQulB",
+        "reproducciones": 229786059
+    },
+    {
+        "nombre": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+        "artista": "Nas",
+        "album": "It Was Written",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273886d823ecbfcbe661a6b0ab9",
+        "id": "5PQmSHzWnlgG4EBuIqjac2",
+        "reproducciones": 296351991
+    },
+    {
+        "nombre": "Intergalactic - Remastered 2009",
+        "artista": "Beastie Boys",
+        "album": "Hello Nasty (Deluxe Edition/Remastered)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa",
+        "id": "5fpizYGbi5IQoEraj6FP0R",
+        "reproducciones": 251485949
+    },
+    {
+        "nombre": "Ms. Fat Booty",
+        "artista": "Mos Def",
+        "album": "Black On Both Sides",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "id": "0IVAlb0cFCH1cQ974iR1TU",
+        "reproducciones": 265706118
+    },
+    {
+        "nombre": "Keep Ya Head Up",
+        "artista": "2Pac",
+        "album": "Strictly 4 My N.I.G.G.A.Z...",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2737f6f6c9e4b492a3d7e910d82",
+        "id": "0XRbYXQUymj9SJkrr8YK5B",
+        "reproducciones": 326638655
+    },
+    {
+        "nombre": "Keep Their Heads Ringin'",
+        "artista": "Dr. Dre",
+        "album": "Keep Their Heads Ringin'",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739330b3ab457779ed4137493b",
+        "id": "7jIujRjK5JKNrMCcAvYUTN",
+        "reproducciones": 228749999
+    },
+    {
+        "nombre": "Big Pimpin'",
+        "artista": "JAY-Z",
+        "album": "Vol. 3... Life And Times Of S. Carter",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "id": "7m97yKVzPpXV9Z4ezEziOD",
+        "reproducciones": 201384339
+    },
+    {
+        "nombre": "Tha Crossroads",
+        "artista": "Bone Thugs-N-Harmony",
+        "album": "E. 1999 Eternal",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e49f4677129d4b8b9d9f50ac",
+        "id": "5KSJ9k1FYjFLnIRlJT2wF8",
+        "reproducciones": 230903498
+    },
+    {
+        "nombre": "Jump",
+        "artista": "Kris Kross",
+        "album": "Totally Krossed Out",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2731ffe5d4aa25c7bd1b1fc4847",
+        "id": "27AHAtAirQapVldIm4c9ZX",
+        "reproducciones": 204687382
+    },
+    {
+        "nombre": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
+        "artista": "Diddy",
+        "album": "No Way Out (2014 Remaster)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "id": "1yy2DlSDtEt90d54rPDPXz",
+        "reproducciones": 657490986
+    },
+    {
+        "nombre": "Electric Relaxation",
+        "artista": "A Tribe Called Quest",
+        "album": "The Anthology",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53",
+        "id": "0eEXcw3JLVXcRxYrVYMy68",
+        "reproducciones": 183591845
+    },
+    {
+        "nombre": "I Get Around",
+        "artista": "2Pac",
+        "album": "Strictly 4 My N.I.G.G.A.Z...",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2737f6f6c9e4b492a3d7e910d82",
+        "id": "4voEoczU7Ijborps9XF1n3",
+        "reproducciones": 259203860
+    },
+    {
+        "nombre": "Shimmy Shimmy Ya",
+        "artista": "Ol' Dirty Bastard",
+        "album": "Return to the 36 Chambers: The Dirty Version",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273942b4029fa54f0b44591a133",
+        "id": "3ABG1UQTk0eLYUAeWkmfMi",
+        "reproducciones": 184411915
+    },
+    {
+        "nombre": "Full Clip",
+        "artista": "Gang Starr",
+        "album": "Full Clip: A Decade Of Gang Starr",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273adb5dbf4251255a00146d8eb",
+        "id": "30oTS7bm0aH3p7lqjEIu8q",
+        "reproducciones": 162756276
+    },
+    {
+        "nombre": "Protect Ya Neck",
+        "artista": "Wu-Tang Clan",
+        "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735901aaa980d3e714bf01171c",
+        "id": "1Sgj10byiGzPpI2IrXSFEn",
+        "reproducciones": 149274617
+    },
+    {
+        "nombre": "Who Shot Ya? - 2005 Remaster",
+        "artista": "The Notorious B.I.G.",
+        "album": "Ready to Die (The Remaster)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+        "id": "2KFg8kjYy0rYjWsXGhEQHN",
+        "reproducciones": 214787615
+    },
+    {
+        "nombre": "This D.J.",
+        "artista": "Warren G",
+        "album": "Regulate… G Funk Era",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f6b9b62ea130943d371b69ef",
+        "id": "2ImuQo1g14CTR9hZAZD3aQ",
+        "reproducciones": 154406048
+    },
+    {
+        "nombre": "Got Your Money (feat. Kelis)",
+        "artista": "Ol' Dirty Bastard",
+        "album": "Nigga Please",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273282eb5b255691e46a5bf5aad",
+        "id": "6YYd5MLpu45J0uLrMdivF7",
+        "reproducciones": 190287496
+    },
+    {
+        "nombre": "Twinz (feat. Fat Joe)",
+        "artista": "Big Pun",
+        "album": "Capital Punishment",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738c7a8e68dc5c20bb72f713f2",
+        "id": "0B8drtTSp68pZdkmVrG9ZA",
+        "reproducciones": 143770636
+    },
+    {
+        "nombre": "1st of Tha Month",
+        "artista": "Bone Thugs-N-Harmony",
+        "album": "E. 1999 Eternal",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e49f4677129d4b8b9d9f50ac",
+        "id": "1dF5Y2dd7Wm4wZKvVjWBpr",
+        "reproducciones": 141012198
+    },
+    {
+        "nombre": "Hard Knock Life (Ghetto Anthem)",
+        "artista": "JAY-Z",
+        "album": "Vol.2... Hard Knock Life",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739700390e9c33c62cfcd915ce",
+        "id": "5Tl0HJvynZtKdSUMKbFVVX",
+        "reproducciones": 256758344
+    },
+    {
+        "nombre": "What You Want (feat. Total)",
+        "artista": "Mase",
+        "album": "Harlem World",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b950e2fa6cd0f5c0767b6650",
+        "id": "6hxn98poTu1O4YZfafvC18",
+        "reproducciones": 126193203
+    },
+    {
+        "nombre": "Gangsta Nation",
+        "artista": "Westside Connection",
+        "album": "Terrorist Threats",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "id": "65iyI1iybyv5ecsfBHSdUf",
+        "reproducciones": 156058397
+    },
+    {
+        "nombre": "It Ain't Hard to Tell",
+        "artista": "Nas",
+        "album": "Illmatic",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273045fc920ecf4f8094888ec26",
+        "id": "2CPturRUlpvirYr7VpkXCV",
+        "reproducciones": 116827371
+    },
+    {
+        "nombre": "Fuck Wit Dre Day (And Everybody's Celebratin')",
+        "artista": "Dr. Dre",
+        "album": "The Chronic",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739710731c9d7baec635f1bab1",
+        "id": "21NA5Zggba7pyACm25h6k4",
+        "reproducciones": 78832816
+    },
+    {
+        "nombre": "Check the Rhime",
+        "artista": "A Tribe Called Quest",
+        "album": "The Low End Theory",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7",
+        "id": "4HfxDJ0uLHTLe0fZrx0MbQ",
+        "reproducciones": 105072250
+    },
+    {
+        "nombre": "Rosa Parks",
+        "artista": "Outkast",
+        "album": "Aquemini",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273377a6d2051b23afea65ee41a",
+        "id": "0shK5iZQppbHPQYiy60xs9",
+        "reproducciones": 149177266
+    },
+    {
+        "nombre": "Wu-Tang Clan Ain't Nuthing ta F' Wit",
+        "artista": "Wu-Tang Clan",
+        "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735901aaa980d3e714bf01171c",
+        "id": "24vNw0Z0srb4zYXwrakw8E",
+        "reproducciones": 157959354
+    },
+    {
+        "nombre": "I Wish",
+        "artista": "Skee-Lo",
+        "album": "I Wish",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273107ec8cc91c8e076d778a5da",
+        "id": "3LklW07tvdx2AHsgfi1Mng",
+        "reproducciones": 222771812
+    },
+    {
+        "nombre": "Hell on Earth (Front Lines)",
+        "artista": "Mobb Deep",
+        "album": "Hell On Earth",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "id": "1RjU7UhRICmdFPKxCucLgq",
+        "reproducciones": 130706903
+    },
+    {
+        "nombre": "Mass Appeal",
+        "artista": "Gang Starr",
+        "album": "Hard To Earn",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273be9fa0b820bcd93392d4047b",
+        "id": "3lGBvPUgO7MJltUnBlOpe9",
+        "reproducciones": 86935473
+    },
+    {
+        "nombre": "Sound of da Police",
+        "artista": "KRS-One",
+        "album": "Return of the Boom Bap",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273db6b0860c8fc65d67c76775f",
+        "id": "3Y6XWs8xMlCngyIxNOFnsp",
+        "reproducciones": 125921434
+    },
+    {
+        "nombre": "When I B On Tha Mic",
+        "artista": "Rakim",
+        "album": "The Master",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "id": "2p9sprAX27D6U5cuSE9NsM",
+        "reproducciones": 104256775
+    },
+    {
+        "nombre": "Nas Is Like",
+        "artista": "Nas",
+        "album": "I Am...",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e80a5aa8d7224edc04b1dc28",
+        "id": "3gY6tiCNsuVi6s8kPV6aQg",
+        "reproducciones": 130838016
+    },
+    {
+        "nombre": "Shadowboxin'",
+        "artista": "GZA",
+        "album": "Liquid Swords",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27384b6abc19fb31fb382378bbc",
+        "id": "7bp5DfkdK1OAvNJ1U4HfDA",
+        "reproducciones": 115941022
+    },
+    {
+        "nombre": "Award Tour (feat. Trugoy The Dove)",
+        "artista": "A Tribe Called Quest",
+        "album": "Midnight Marauders",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f306af1dae08f81f9d6f1f9f",
+        "id": "5YTM7OgQDt9EJAYcfHLniJ",
+        "reproducciones": 110479023
+    },
+    {
+        "nombre": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
+        "artista": "Wu-Tang Clan",
+        "album": "Wu-Tang Forever",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "id": "3glqlA5qY3bbo8UaUDGPnw",
+        "reproducciones": 106553065
+    },
+    {
+        "nombre": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+        "artista": "The Notorious B.I.G.",
+        "album": "Greatest Hits",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
+        "id": "7fXhkARAtS66kxexMIAx8O",
+        "reproducciones": 142449582
+    },
+    {
+        "nombre": "Rebirth Of Slick (Cool Like Dat)",
+        "artista": "Digable Planets",
+        "album": "Reachin' (A New Refutation Of Time And Space)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c9f6a742f2337f938e89f599",
+        "id": "26q6YTrXt9l8qshIveiTX9",
+        "reproducciones": 78854072
+    },
+    {
+        "nombre": "Lost Ones",
+        "artista": "Ms. Lauryn Hill",
+        "album": "The Miseducation of Lauryn Hill",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9",
+        "id": "71XhXay6rKPZCVAaDtFlSR",
+        "reproducciones": 76417207
+    },
+    {
+        "nombre": "Let Me Ride",
+        "artista": "Dr. Dre",
+        "album": "The Chronic",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739710731c9d7baec635f1bab1",
+        "id": "36yUCSB9OaMz0RMUQDOSpT",
+        "reproducciones": 57796317
+    },
+    {
+        "nombre": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
+        "artista": "Busta Rhymes",
+        "album": "When Disaster Strikes...",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273fa84b273d99d5989c5124c8e",
+        "id": "1NHwvBmrUje4L1dxfWnXCH",
+        "reproducciones": 104813786
+    },
+    {
+        "nombre": "Find a Way",
+        "artista": "A Tribe Called Quest",
+        "album": "The Love Movement",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27389202df9fbd69ea49e9efe11",
+        "id": "2MAaiV0bbeq4FpSwPe2rR8",
+        "reproducciones": 87016601
+    },
+    {
+        "nombre": "Summertime",
+        "artista": "DJ Jazzy Jeff & The Fresh Prince",
+        "album": "Homebase",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738f8697f6ee69d4b8ea74c9d6",
+        "id": "20XdEFyaUR9C7aDIdq2OAd",
+        "reproducciones": 113911511
+    },
+    {
+        "nombre": "Get Me Home",
+        "artista": "Foxy Brown",
+        "album": "Ill Na Na",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c9f76376745f9b86923d0a06",
+        "id": "6Xo9osN1HErsEJoqwj4eDg",
+        "reproducciones": 79990228
+    },
+    {
+        "nombre": "California Love - Original Version",
+        "artista": "2Pac",
+        "album": "The Best of 2Pac",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c1c10d28c1887c2bb1f6b2fa",
+        "id": "3djNBlI7xOggg7pnsOLaNm",
+        "reproducciones": 879741029
+    },
+    {
+        "nombre": "They Reminisce Over You (T.R.O.Y.)",
+        "artista": "Pete Rock & C.L. Smooth",
+        "album": "Mecca And The Soul Brother",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d535e6a05ec517c25a232f43",
+        "id": "2Mb3zpobD0CvJGWv6NpsPy",
+        "reproducciones": 89125458
+    },
+    {
+        "nombre": "What They Do",
+        "artista": "The Roots",
+        "album": "Illadelph Halflife",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "id": "1B53Y95tPd4ah4FExO0egE",
+        "reproducciones": 52617291
+    },
+    {
+        "nombre": "Gettin' It (feat. Parliament Funkadelic)",
+        "artista": "Too $hort",
+        "album": "Gettin' It (Album Number Ten)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27339abdab31997fcb39b773670",
+        "id": "5K5dQsYdSdo2LKdepxbYAd",
+        "reproducciones": 80569595
+    },
+    {
+        "nombre": "Halftime",
+        "artista": "Nas",
+        "album": "Illmatic",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273045fc920ecf4f8094888ec26",
+        "id": "2PRsh2LNPxoxC9OnErnelg",
+        "reproducciones": 71828702
+    },
+    {
+        "nombre": "Miami",
+        "artista": "Will Smith",
+        "album": "Big Willie Style",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b6f3ee6d2e2d45c0c34ff300",
+        "id": "6e8Ou0wiqAzIpWb2eSxll8",
+        "reproducciones": 449110134
+    },
+    {
+        "nombre": "People Everyday - Metamorphosis Mix",
+        "artista": "Arrested Development",
+        "album": "Extended Revolution",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273295993065931be1d1c2a8bea",
+        "id": "5thts3213xwSroRd11fv5A",
+        "reproducciones": 106021032
+    },
+    {
+        "nombre": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
+        "artista": "Method Man",
+        "album": "Tical (Deluxe Edition)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273eac07404afec33248030ae90",
+        "id": "6C3yPXYG2NJYlIYVe5J7hv",
+        "reproducciones": 91866973
+    },
+    {
+        "nombre": "Can I Get A...",
+        "artista": "JAY-Z",
+        "album": "Vol.2... Hard Knock Life",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739700390e9c33c62cfcd915ce",
+        "id": "4LGMSdeKOUoy5Wf75Je0Hl",
+        "reproducciones": 73264590
+    },
+    {
+        "nombre": "Player's Ball",
+        "artista": "Outkast",
+        "album": "Southernplayalisticadillacmuzik",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "id": "1RXEb6UTxJ05RffnAWfUOE",
+        "reproducciones": 59061617
+    },
+    {
+        "nombre": "Quiet Storm",
+        "artista": "Mobb Deep",
+        "album": "Murda Muzik",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27331dd36c756f1bb3af4d3e35a",
+        "id": "6nwAubYnLGl7F7cDuOoVLp",
+        "reproducciones": 74613649
+    },
+    {
+        "nombre": "Invocation",
+        "artista": "Common",
+        "album": "One Day It'll All Make Sense",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c5f66637f2447f4634c41eb9",
+        "id": "1zS4PMsHfkSXPkzrEkCkC6",
+        "reproducciones": 57599925
+    },
+    {
+        "nombre": "Guess Who's Back",
+        "artista": "Rakim",
+        "album": "The 18th Letter / The Book Of Life",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273796e9d830c2237253fd9b084",
+        "id": "5czjjnbTatyFal33a9h1aN",
+        "reproducciones": 60594052
+    },
+    {
+        "nombre": "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
+        "artista": "Raekwon",
+        "album": "Only Built 4 Cuban Linx...",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "id": "6SI4JD7iyQ0rrudhCNtMv0",
+        "reproducciones": 74288065
+    },
+    {
+        "nombre": "Tonight's Da Night",
+        "artista": "Redman",
+        "album": "Whut? Thee Album",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2733397cc60078359cce2ed2874",
+        "id": "67mtN6BlsJR0LVyzvNZnGt",
+        "reproducciones": 77683219
+    },
+    {
+        "nombre": "Gimme Some More",
+        "artista": "Busta Rhymes",
+        "album": "Extinction Level Event: The Final World Front",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738fc27013a1be4e3451189501",
+        "id": "47wZfF4OdME3xkIPhhpSSF",
+        "reproducciones": 74735751
+    },
+    {
+        "nombre": "Loungin'",
+        "artista": "Guru",
+        "album": "Jazzmatazz Volume 1",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "id": "1VzhfMEGIIkn5hFITMJzW1",
+        "reproducciones": 34856021
+    },
+    {
+        "nombre": "Bucktown",
+        "artista": "Smif-N-Wessun",
+        "album": "Dah Shinin'",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273721765a958512981797ca47a",
+        "id": "5fyRqeycMofUoGmDis5Gu6",
+        "reproducciones": 31102694
+    },
+    {
+        "nombre": "The Choice Is Yours (Revisited)",
+        "artista": "Black Sheep",
+        "album": "A Wolf In Sheep's Clothing",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a19467a0f512538bd5f25d89",
+        "id": "4k9EkhkFZY8Bk41Qi0Ob7P",
+        "reproducciones": 50094960
+    },
+    {
+        "nombre": "Damn It Feels Good to Be a Gangsta",
+        "artista": "Geto Boys",
+        "album": "Uncut Dope",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e91f3ec3f8d0fcbe8453639d",
+        "id": "0HOqINudNgQFpg1le5Hnqe",
+        "reproducciones": 72490732
+    },
+    {
+        "nombre": "Chief Rocka",
+        "artista": "Lords Of The Underground",
+        "album": "Here Come The Lords",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739f1f96b2d132b62ef0e3da18",
+        "id": "34MRi5GRWHFUa731JBxFEl",
+        "reproducciones": 58146026
+    },
+    {
+        "nombre": "Elevators (Me & You)",
+        "artista": "Outkast",
+        "album": "ATLiens",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+        "id": "2oLwDI8tZUOh6SmTMRRfKs",
+        "reproducciones": 63702710
+    },
+    {
+        "nombre": "Uknowhowwedu",
+        "artista": "Bahamadia",
+        "album": "Kollage",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27344016e2326d59e4dd362ea5e",
+        "id": "5KapB9KJnRsZrprzIAXycW",
+        "reproducciones": 34302751
+    },
+    {
+        "nombre": "Gz and Hustlas",
+        "artista": "Snoop Dogg",
+        "album": "Doggystyle",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29",
+        "id": "3gTPlYouwH2OoVbMQBB4UC",
+        "reproducciones": 45781434
+    },
+    {
+        "nombre": "Definition",
+        "artista": "Black Star",
+        "album": "Mos Def & Talib Kweli Are Black Star",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e3f907e70bc502a263ee1bc0",
+        "id": "4C7Ss9bTPOWJMh3rarF1mN",
+        "reproducciones": 57683572
+    },
+    {
+        "nombre": "The Rain (Supa Dupa Fly)",
+        "artista": "Missy Elliott",
+        "album": "Supa Dupa Fly",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4",
+        "id": "2WRzpLD8qDRrxMXc63E5WJ",
+        "reproducciones": 59707207
+    },
+    {
+        "nombre": "He Got Game",
+        "artista": "Public Enemy",
+        "album": "He Got Game (Soundtrack)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273331c8f13fb4bbf72670f77c7",
+        "id": "48zajk3g8P3BMT7F9BbDoD",
+        "reproducciones": 75344120
+    },
+    {
+        "nombre": "Step into a World (Rapture's Delight)",
+        "artista": "KRS-One",
+        "album": "I Got Next",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27313402ce131f309b48a9bbc4c",
+        "id": "5xXL4i9L2ZbKBtENNh8fWY",
+        "reproducciones": 46041265
+    },
+    {
+        "nombre": "Jazzy Belle",
+        "artista": "Outkast",
+        "album": "ATLiens",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+        "id": "6w4MlvpuxtbjGdL9YeTx89",
+        "reproducciones": 44659052
+    },
+    {
+        "nombre": "Brooklyn Zoo",
+        "artista": "Ol' Dirty Bastard",
+        "album": "Return to the 36 Chambers: The Dirty Version",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273942b4029fa54f0b44591a133",
+        "id": "2FWmKZ3kNbVsKGhuNHsltW",
+        "reproducciones": 51318688
+    },
+    {
+        "nombre": "Been Around the World (feat. The Notorious B.I.G. & Mase)",
+        "artista": "Diddy",
+        "album": "No Way Out",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "id": "1siDRjAa8MdxNoCHTiiQ7B",
+        "reproducciones": 59898295
+    },
+    {
+        "nombre": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
+        "artista": "Wyclef Jean",
+        "album": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "id": "6g5ov3aSDUvvDkQKIcmZQI",
+        "reproducciones": 29888311
+    },
+    {
+        "nombre": "Luchini AKA This Is It",
+        "artista": "Camp Lo",
+        "album": "Uptown Saturday Night",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a9e2d71c5d38c4c9418fb888",
+        "id": "20DcrlNK0NcRknbX4wcEO4",
+        "reproducciones": 55322043
+    },
+    {
+        "nombre": "MC's Act Like They Don't Know",
+        "artista": "KRS-One",
+        "album": "KRS-One",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "id": "0snDRsjNRMJhm7SVja8l6J",
+        "reproducciones": 45721983
+    },
+    {
+        "nombre": "Me Or The Papes",
+        "artista": "Jeru The Damaja",
+        "album": "Wrath Of The Math",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273202a788ac08af7d168ff8df9",
+        "id": "1h20yRsf5WeuHbohrlfcCt",
+        "reproducciones": 32538102
+    },
+    {
+        "nombre": "Back That Azz Up",
+        "artista": "JUVENILE",
+        "album": "Greatest Hits",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c45be011a36fab65c8eed961",
+        "id": "525yPO8r5J6kLostDxm3XK",
+        "reproducciones": 220725558
+    },
+    {
+        "nombre": "Ante Up (Robbin Hoodz Theory)",
+        "artista": "M.O.P.",
+        "album": "Warriorz",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27399d5e13356b05f244af52d78",
+        "id": "550JPXXPgjr1xqxtKIaX6b",
+        "reproducciones": 66497034
+    }
+]

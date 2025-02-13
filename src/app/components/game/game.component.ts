@@ -3,10 +3,13 @@ import { ActivatedRoute } from '@angular/router';
 import { CommonModule, NgIf } from '@angular/common';
 import { ItemGame } from '../../interfaces/item.interface';
 import { FetchService } from '../../services/fetch.service';
+import { isAlbumItem, isArtistItem, isTrackItem } from '../../interfaces/item-game.type-guards';
+import { GameOverComponent } from '../game-over/game-over.component';
+
 
 @Component({
   selector: 'app-game',
-  imports: [NgIf, CommonModule],
+  imports: [NgIf, CommonModule, GameOverComponent],
   templateUrl: './game.component.html',
   styleUrls: ['./game.component.css']
 })
@@ -17,8 +20,6 @@ export class GameComponent implements OnInit {
   nextItem?: ItemGame;
   currentIndex: number = 0;
   loading: boolean = true;
-  page: number = 1;
-  fetchingMoreItems: boolean = false;
 
   // Estado del juego
   score: number = 0;
@@ -28,6 +29,11 @@ export class GameComponent implements OnInit {
   mood: string = '';
   category: string = '';
   selection: string = '';
+
+  isTrackItem = isTrackItem
+  isAlbumItem = isAlbumItem
+  isArtistItem = isArtistItem
+
 
   constructor(
     private fetchService: FetchService,
@@ -42,92 +48,133 @@ export class GameComponent implements OnInit {
       this.selection = segments[3]?.path || '';
 
       this.loading = true;
+      this.cargarDatos();
       this.loading = false;
     });
   }
 
-  // async loadItems() {
-  //   if (this.fetchingMoreItems) return;
-  //   this.fetchingMoreItems = true;
+  async cargarDatos() {
+    const pathJson = this.getPathJson();
+    if (!pathJson) {
+      console.error('Error: No se encontró un JSON válido para la selección.');
+      return;
+    }
+  
+    const data = await this.fetchService.fetchJson(pathJson, this.mood);
+  
+    this.items = data.map(item => ({
+      ...item,
+      type: this.mood // Agregar el tipo si no está en el JSON
+    })) as ItemGame[];
+  
+    console.log(this.items);
+  
+    if (this.items.length > 0) {
+      this.currentIndex = 0;
+      this.setupRound();
+    } else {
+      console.error('Error: No se encontraron datos en el JSON.');
+    }
 
-  //   try {
-  //     const newItems = await this.spotifyServ.getData(this.mood, this.category ,this.selection);
-  //     console.log(newItems)
-      
-  //     if (newItems.length > 0) {
-  //       this.items.push(...newItems);
-  //       this.page++; // Aumentar página para cargar más
+    this.loading = false;
+  }
+  
 
-  //       if (!this.currentItem) {
-  //         this.setupRound();
-  //       }
-  //     } else {
-  //       console.error("No se pudieron cargar más datos.");
-  //       this.gameOver = true;
-  //     }
+  getPathJson(): string | null {
+    if (this.mood === 'artist') {
+      return 'spotify_artists.json';
+    } 
+    if (this.mood === 'album') {
+      return 'spotify_albums.json';
+    } 
+    return this.getTrackJsonName();
+  }
+  
+  getTrackJsonName(): string | null {
+    const trackMappings: { [key: string]: string } = {
+      "Salsa": "tracks-salsa.json",
+      "Pop en Español": "tracks-popEspañol.json",
+      "Pop en Inglés": "tracks-popIngles.json",
+      "Rock en Español": "tracks-rockEspañol.json",
+      "Rock en Inglés": "tracks-rockIngles.json",
+      "Baladas": "tracks-baladas.json",
+      "Hip Hop": "tracks-hiphop.json",
+      "Reggaeton": "tracks-reggaeton.json",
+      "Bad Bunny": "tracks-BadBunny.json",
+      "Taylor Swift": "tracks-TaylorSwift.json",
+      "Luis Miguel": "tracks-LuisMiguel.json",
+      "Soda Stereo": "tracks-SodaStereo.json"
+    };
+  
+    return trackMappings[this.selection] || null;
+  }
+  
 
-  //     this.spotifyServ.crearIDS();
-  //   } catch (error) {
-  //     console.error("Error cargando datos de Spotify:", error);
-  //     this.gameOver = true;
-  //   }
-
-  //   this.fetchingMoreItems = false;
-  // }
 
   setupRound(): void {
     if (this.currentIndex >= this.items.length - 1) {
-      // this.loadItems();
+      this.gameOver = true;
       return;
     }
-
+  
     this.currentItem = this.items[this.currentIndex];
     this.nextItem = this.items[this.currentIndex + 1];
   }
 
-  // async guess(isHigher: boolean) {
-  //   if (!this.currentItem || !this.nextItem) return;
+  guess(isHigher: boolean) {
+    if (!this.currentItem || !this.nextItem) return;
+  
+    const currentMetric = this.getMetricValue(this.currentItem);
+    const nextMetric = this.getMetricValue(this.nextItem);
+  
+    const correct = isHigher ? nextMetric >= currentMetric : nextMetric < currentMetric;
+  
+    if (correct) {
+      this.score++;
+      this.currentIndex++;
+  
+      if (this.currentIndex < this.items.length - 1) {
+        this.setupRound();
+      } else {
+        this.gameOver = true;
+      }
+    } else {
+      this.gameOver = true;
+    }
+  }
+  
 
-  //   const correct = isHigher 
-  //     ? this.nextItem.popularityMetric >= this.currentItem.popularityMetric
-  //     : this.nextItem.popularityMetric < this.currentItem.popularityMetric;
-    
-  //     if (correct) {
-  //       this.score++;
-  //       this.currentIndex++;
-    
-  //       // ✅ Actualiza los ítems después de cada intento
-  //       if (this.currentIndex < this.items.length - 1) {
-  //         this.currentItem = this.items[this.currentIndex];
-  //         this.nextItem = this.items[this.currentIndex + 1];
-  //       } else {
-  //         this.gameOver = true;
-  //       }
-  //     } else {
-  //       this.gameOver = true;
-  //     }
-  // }
-
-  // restartGame() {
-  //   this.currentIndex = 0;
-  //   this.score = 0;
-  //   this.gameOver = false;
-  //   this.items = [];
-  //   this.currentItem = undefined;
-  //   this.nextItem = undefined;
-  //   this.page = 1;
-  //   this.loading = true;
-
-  //   this.ngOnInit();
-  // }
-
-  // getMetricLabel(mood: string): string {
-  //   switch (mood) {
-  //     case 'track': return 'Popularidad';
-  //     case 'album': return 'Popularidad';
-  //     case 'artist': return 'Seguidores';
-  //     default: return 'Métrica';
-  //   }
-  // }
+  getMetricLabel(mood: string): string {
+    switch (mood) {
+      case 'track': return 'Reproducciones';
+      case 'album': return 'Popularidad';
+      case 'artist': return 'Oyentes mensuales';
+      default: return 'Métrica';
+    }
+  }
+  
+ 
+  getMetricValue(item: ItemGame): number {
+    if (isTrackItem(item)) return item.reproducciones;
+    if (isAlbumItem(item)) return item.popularity;
+    if (isArtistItem(item)) return item.listeners;
+    return 0;
+  }
+  
+  
+  
+  
+  
+  restartGame() {
+    this.score = 0;
+    this.currentIndex = 0;
+    this.gameOver = false;
+    this.items = [];
+    this.currentItem = undefined;
+    this.nextItem = undefined;
+    this.loading = true;
+  
+    this.cargarDatos(); // Vuelve a cargar los datos y reinicia el juego
+  }
   
 }

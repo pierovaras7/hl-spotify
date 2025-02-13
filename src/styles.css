@@ -45,6 +45,13 @@
     font-weight: 400;
 }
 
+@font-face {
+    font-family: 'Luckiest';
+    src: url('/fonts/LuckiestGuy-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
 .germania {
     font-family: 'Germania';
 }
@@ -67,4 +74,8 @@
 
 .zeyada {
     font-family: 'Zeyada';
+}
+
+.luckiest {
+    font-family: 'Luckiest';
 }

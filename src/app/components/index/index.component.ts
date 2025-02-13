@@ -1,12 +1,26 @@
-import { NgFor, NgIf } from '@angular/common';
+import { NgFor, NgIf, NgStyle } from '@angular/common';
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { faSpotify} from '@fortawesome/free-brands-svg-icons';
+import { faHome, faCircleLeft } from '@fortawesome/free-solid-svg-icons';
+
+import { trigger, style, transition, animate } from '@angular/animations';
+
 
 @Component({
   selector: 'app-index',
-  imports: [NgIf, NgFor],
+  imports: [NgIf, NgFor, FontAwesomeModule, NgStyle ],
   templateUrl: './index.component.html',
-  styleUrl: './index.component.css'
+  styleUrl: './index.component.css',
+  animations: [
+    trigger('fadeIn', [
+      transition(':enter', [
+        style({ opacity: 0 }),
+        animate('500ms ease-in', style({ opacity: 1 }))
+      ])
+    ])
+  ]
 })
 export class IndexComponent {
   showCategories = false;
@@ -23,7 +37,11 @@ export class IndexComponent {
   options: string[] = [];
   moods: string[] = ['artist', 'track', 'album'];
   urlSegments: any[] = [];
-  
+
+  faSpotify = faSpotify;
+  faCircleLeft = faCircleLeft
+  faHome = faHome;
+
   constructor (private router :Router){}
 
   startGame() {
@@ -69,4 +87,9 @@ export class IndexComponent {
     this.showCategories = false;
     this.showOptions = false
   }
+
+  sanitizeOption(option: string): string {
+    return option.toLowerCase().split(' ').join('');
+  }
+  
 }

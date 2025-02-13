@@ -1,8 +1,7 @@
-export interface ItemGame {
-  type: 'track' | 'album' | 'artist';
-}
+export type ItemGame = TrackItem | AlbumItem | ArtistItem;
 
-export interface TrackItem extends ItemGame {
+
+export interface TrackItem {
   type: 'track';
   nombre: string,
   artista: string;
@@ -12,7 +11,7 @@ export interface TrackItem extends ItemGame {
   reproducciones: number;
 }
 
-export interface AlbumItem extends ItemGame {
+export interface AlbumItem {
   type: 'album';
   album: string;
   album_id: string;
@@ -21,10 +20,10 @@ export interface AlbumItem extends ItemGame {
   popularity: number;
 }
 
-export interface ArtistItem extends ItemGame {
+export interface ArtistItem  {
   type: 'artist';
   artist: string;
   artist_id: string;
   img_url: string;
-  listeners: string;
+  listeners: number;
 }

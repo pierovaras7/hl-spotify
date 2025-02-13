@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { AlbumItem, ArtistItem, ItemGame, TrackItem } from '../interfaces/item.interface';
+import { map, Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -11,23 +12,30 @@ export class FetchService {
 
   constructor(private http:HttpClient) { }
 
-  fetchJson(nameJson: string){
-    this.http.get<ItemGame[]>(this.pathJson.concat(nameJson)).subscribe((data) => {
-      return data.map((item) => this.mapItem(item));
-    });
-  }
 
-  private mapItem(item: any): ItemGame {
-    switch (item.type) {
-      case 'track':
-        return item as TrackItem;
-      case 'album':
-        return item as AlbumItem;
-      case 'artist':
-        return item as ArtistItem;
-      default:
-        throw new Error('Tipo de item desconocido');
-    }
+  fetchJson(nameJson: string, mood: string): Promise<ItemGame[]> {
+    return this.http.get<ItemGame[]>(this.pathJson.concat(nameJson)).toPromise()
+      .then(data => (data ?? []).map(item => this.mapItem(item, mood)))
+      .catch(error => {
+        console.error(`❌ Error al obtener el JSON: ${nameJson}`, error);
+        return [];
+      });
   }
+  
+  
+  mapItem(item: any, mood: string): ItemGame {
+    if (mood === 'track') {
+      return { ...item, type: 'track' } as TrackItem;
+    } 
+    if (mood === 'album') {
+      return { ...item, type: 'album' } as AlbumItem;
+    }
+    if (mood === 'artist') {
+      return { ...item, type: 'artist' } as ArtistItem;
+    }
+    console.warn(`⚠️ Item sin tipo definido:`, item);
+    return item as ItemGame;
+  }
+  
 
 }
