@@ -1,0 +1,1202 @@
+[
+    {
+        "artist": "Bad Bunny",
+        "artist_id": "4q3ewBCX7sLwd24euuV69X",
+        "img_url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+        "listeners": null
+    },
+    {
+        "artist": "The Weeknd",
+        "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "img_url": "https://i.scdn.co/image/ab676161000051749e528993a2820267b97f6aae",
+        "listeners": 123873105
+    },
+    {
+        "artist": "Taylor Swift",
+        "artist_id": "06HL4z0CvFAxyc27GXpf02",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676",
+        "listeners": 87182061
+    },
+    {
+        "artist": "Bruno Mars",
+        "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c36dd9eb55fb0db4911f25dd",
+        "listeners": 150963127
+    },
+    {
+        "artist": "Billie Eilish",
+        "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "img_url": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da",
+        "listeners": 106308803
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "img_url": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "listeners": 86323929
+    },
+    {
+        "artist": "Drake",
+        "artist_id": "3TVXtAsR1Inumwj472S9r4",
+        "img_url": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
+        "listeners": 74984072
+    },
+    {
+        "artist": "SZA",
+        "artist_id": "7tYKF4w9nC0nq9CsPZTHyP",
+        "img_url": "https://i.scdn.co/image/ab67616100005174fd0a9fb6c252a3ba44079acf",
+        "listeners": 85410747
+    },
+    {
+        "artist": "Travis Scott",
+        "artist_id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "img_url": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71",
+        "listeners": 73241465
+    },
+    {
+        "artist": "Lady Gaga",
+        "artist_id": "1HY2Jd0NmPuamShAr6KMms",
+        "img_url": "https://i.scdn.co/image/ab67616100005174aadc18cac8d48124357c38e6",
+        "listeners": 121051004
+    },
+    {
+        "artist": "Ariana Grande",
+        "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "img_url": "https://i.scdn.co/image/ab6761610000517440b5c07ab77b6b1a9075fdc0",
+        "listeners": 84387699
+    },
+    {
+        "artist": "Arijit Singh",
+        "artist_id": "4YRxDV8wJFPHPTeXepOstw",
+        "img_url": "https://i.scdn.co/image/ab676161000051745ba2d75eb08a2d672f9b69b7",
+        "listeners": 43591255
+    },
+    {
+        "artist": "Tito Double P",
+        "artist_id": "5eumcnUkdmGvkvcsx1WFNG",
+        "img_url": "https://i.scdn.co/image/ab6761610000517442aaf132132313182dcf7271",
+        "listeners": 24497245
+    },
+    {
+        "artist": "Peso Pluma",
+        "artist_id": "12GqGscKJx3aE4t07u7eVZ",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e5283f5b671cf618b82a2696",
+        "listeners": 45543831
+    },
+    {
+        "artist": "Kanye West",
+        "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "img_url": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
+        "listeners": 66866716
+    },
+    {
+        "artist": "Rauw Alejandro",
+        "artist_id": "1mcTU81TzQhprhouKaTkpq",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b271c8a0507c4c1ea795d989",
+        "listeners": 55747546
+    },
+    {
+        "artist": "Lana Del Rey",
+        "artist_id": "00FQb4jTyendYWaN8pK0wa",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
+        "listeners": 61142840
+    },
+    {
+        "artist": "Future",
+        "artist_id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "img_url": "https://i.scdn.co/image/ab676161000051747565b356bc9d9394eefa2ccb",
+        "listeners": 58421396
+    },
+    {
+        "artist": "Coldplay",
+        "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "img_url": "https://i.scdn.co/image/ab676161000051741ba8fc5f5c73e7e9313cc6eb",
+        "listeners": 92362682
+    },
+    {
+        "artist": "Rihanna",
+        "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "img_url": "https://i.scdn.co/image/ab6761610000517499e4fca7c0b7cb166d915789",
+        "listeners": 90542098
+    },
+    {
+        "artist": "Sabrina Carpenter",
+        "artist_id": "74KM79TiuVKeVCqs8QtB0B",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e053b8338322b9c8609ee7ae",
+        "listeners": 69787501
+    },
+    {
+        "artist": "Eminem",
+        "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+        "listeners": 74340747
+    },
+    {
+        "artist": "Fuerza Regida",
+        "artist_id": "0ys2OFYzWYB5hRDLCsBqxt",
+        "img_url": "https://i.scdn.co/image/ab676161000051747e2545f678354fc859de15f1",
+        "listeners": 31449297
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "artist_id": "4V8LLVI7PbaPR0K2TGSxFF",
+        "img_url": "https://i.scdn.co/image/ab67616100005174dfa2b0c7544a772042a12e52",
+        "listeners": 50282643
+    },
+    {
+        "artist": "Feid",
+        "artist_id": "2LRoIwlKmHjgvigdNGBHNo",
+        "img_url": "https://i.scdn.co/image/ab6761610000517407620e28ffb1bdc8dd2d5ea0",
+        "listeners": 42111777
+    },
+    {
+        "artist": "Morgan Wallen",
+        "artist_id": "4oUHIQIBe0LHzYfvXNW4QM",
+        "img_url": "https://i.scdn.co/image/ab67616100005174df42c758479fe40372584e77",
+        "listeners": 36465981
+    },
+    {
+        "artist": "Pritam",
+        "artist_id": "1wRPtKGflJrBx9BmLsSwlU",
+        "img_url": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+        "listeners": 41934063
+    },
+    {
+        "artist": "Junior H",
+        "artist_id": "7Gi6gjaWy3DxyilpF1a8Is",
+        "img_url": "https://i.scdn.co/image/ab6761610000517450998d90507d8c1603b2530b",
+        "listeners": 25754161
+    },
+    {
+        "artist": "Justin Bieber",
+        "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+        "img_url": "https://i.scdn.co/image/ab676161000051748ae7f2aaa9817a704a87ea36",
+        "listeners": 82377774
+    },
+    {
+        "artist": "Linkin Park",
+        "artist_id": "6XyY86QOPPrYVGvF9ch6wz",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c7e6bd9e65eab62a53355576",
+        "listeners": 47358362
+    },
+    {
+        "artist": "KAROL G",
+        "artist_id": "790FomKkXshlbRYZFtlgla",
+        "img_url": "https://i.scdn.co/image/ab676161000051744b0754aefc9db490e02205ec",
+        "listeners": 55977981
+    },
+    {
+        "artist": "Natanael Cano",
+        "artist_id": "0elWFr7TW8piilVRYJUe4P",
+        "img_url": "https://i.scdn.co/image/ab676161000051747e2078873c8ccd9f968de1cf",
+        "listeners": 24098610
+    },
+    {
+        "artist": "Gracie Abrams",
+        "artist_id": "4tuJ0bMpJh08umKkEXKUI5",
+        "img_url": "https://i.scdn.co/image/ab67616100005174f6d51e6f5342d2d363220920",
+        "listeners": 50994705
+    },
+    {
+        "artist": "J Balvin",
+        "artist_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+        "img_url": "https://i.scdn.co/image/ab67616100005174dea08796d296a58c5d060439",
+        "listeners": 65315853
+    },
+    {
+        "artist": "Juice WRLD",
+        "artist_id": "4MCBfE4596Uoi2O4DtmEMz",
+        "img_url": "https://i.scdn.co/image/ab6761610000517401ab50f1479f24a42804efd8",
+        "listeners": 33898839
+    },
+    {
+        "artist": "Playboi Carti",
+        "artist_id": "699OTQXzgjhIYAHMy9RyPD",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ba50ca67ffc3097f6ea1710a",
+        "listeners": 54164063
+    },
+    {
+        "artist": "Post Malone",
+        "artist_id": "246dkjvS1zLTtiykXe5h60",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e17c0aa1714a03d62b5ce4e0",
+        "listeners": 69859031
+    },
+    {
+        "artist": "David Guetta",
+        "artist_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+        "img_url": "https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f",
+        "listeners": 73651637
+    },
+    {
+        "artist": "21 Savage",
+        "artist_id": "1URnnhqYAYcrqrcwql10ft",
+        "img_url": "https://i.scdn.co/image/ab676161000051744f8f76117470957c0e81e5b2",
+        "listeners": 50888662
+    },
+    {
+        "artist": "Metro Boomin",
+        "artist_id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "img_url": "https://i.scdn.co/image/ab67616100005174df9a1555f53a20087b8c5a5c",
+        "listeners": 48668913
+    },
+    {
+        "artist": "Zach Bryan",
+        "artist_id": "40ZNYROS4zLfyyBSs2PGe2",
+        "img_url": "https://i.scdn.co/image/ab676161000051744fd54df35bfcfa0fc9fc2da7",
+        "listeners": 26546795
+    },
+    {
+        "artist": "Neton Vega",
+        "artist_id": "6pV5zH2LzjOUHaAvENdMMa",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a3870e9e7f452ee529131108",
+        "listeners": 27318795
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "artist_id": "7Ln80lUS6He07XvHI8qqHH",
+        "img_url": "https://i.scdn.co/image/ab676161000051747da39dea0a72f581535fb11f",
+        "listeners": 55249193
+    },
+    {
+        "artist": "Ed Sheeran",
+        "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "img_url": "https://i.scdn.co/image/ab67616100005174784daff754ecfe0464ddbeb9",
+        "listeners": 70857687
+    },
+    {
+        "artist": "Beyoncé",
+        "artist_id": "6vWDO969PvNqNYHIOW5v0m",
+        "img_url": "https://i.scdn.co/image/ab676161000051747eaa373538359164b843f7c0",
+        "listeners": 58772182
+    },
+    {
+        "artist": "Imagine Dragons",
+        "artist_id": "53XhwfbYqKCa1cC15pYq2q",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38",
+        "listeners": 60107288
+    },
+    {
+        "artist": "Myke Towers",
+        "artist_id": "7iK8PXO48WeuP03g8YR51W",
+        "img_url": "https://i.scdn.co/image/ab676161000051748372345609bebaf1e948ef7f",
+        "listeners": 44154042
+    },
+    {
+        "artist": "ROSÉ",
+        "artist_id": "3eVa5w3URK5duf6eyVDbu9",
+        "img_url": "https://i.scdn.co/image/ab67616100005174727a1f1f508238a20ac9fdbf",
+        "listeners": 67664389
+    },
+    {
+        "artist": "Chappell Roan",
+        "artist_id": "7GlBOeep6PqTfFi59PTUUN",
+        "img_url": "https://i.scdn.co/image/ab67616100005174cde5a0d57c1b79de5fce6bee",
+        "listeners": 43270691
+    },
+    {
+        "artist": "Anuel AA",
+        "artist_id": "2R21vXR83lH98kGeO99Y66",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2",
+        "listeners": 34887211
+    },
+    {
+        "artist": "Olivia Rodrigo",
+        "artist_id": "1McMsnEElThX1knmY4oliG",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
+        "listeners": 47281912
+    },
+    {
+        "artist": "Teddy Swims",
+        "artist_id": "33qOK5uJ8AR2xuQQAhHump",
+        "img_url": "https://i.scdn.co/image/ab67616100005174f9cf783eb03eb66aa43943ba",
+        "listeners": 51616484
+    },
+    {
+        "artist": "Central Cee",
+        "artist_id": "5H4yInM5zmHqpKIoMNAx4r",
+        "img_url": "https://i.scdn.co/image/ab67616100005174f6469f2cbf0a7e78744a3173",
+        "listeners": 32410901
+    },
+    {
+        "artist": "Dua Lipa",
+        "artist_id": "6M2wZ9GZgrQXHCFfjv46we",
+        "img_url": "https://i.scdn.co/image/ab676161000051740c68f6c95232e716f0abee8d",
+        "listeners": 64919342
+    },
+    {
+        "artist": "XXXTENTACION",
+        "artist_id": "15UsOTVnJzReFVN1VCnxy4",
+        "img_url": "https://i.scdn.co/image/ab67616100005174f0c20db5ef6c6fbe5135d2e4",
+        "listeners": 37854160
+    },
+    {
+        "artist": "Luis R Conriquez",
+        "artist_id": "0pePYDrJGk8gqMRbXrLJC8",
+        "img_url": "https://i.scdn.co/image/ab676161000051746fca2f2fcfaf068fd37027d1",
+        "listeners": 22579255
+    },
+    {
+        "artist": "Maroon 5",
+        "artist_id": "04gDigrS5kc9YWfZHwBETP",
+        "img_url": "https://i.scdn.co/image/ab67616100005174f8349dfb619a7f842242de77",
+        "listeners": 65029996
+    },
+    {
+        "artist": "Grupo Frontera",
+        "artist_id": "6XkjpgcEsYab502Vr1bBeW",
+        "img_url": "https://i.scdn.co/image/ab676161000051743f244d61f287932d5c958fea",
+        "listeners": 36650515
+    },
+    {
+        "artist": "Gabito Ballesteros",
+        "artist_id": "6Sbl0NT50roqWvy746MfVf",
+        "img_url": "https://i.scdn.co/image/ab676161000051747f09c9c912a14580f87a2ea8",
+        "listeners": 23268952
+    },
+    {
+        "artist": "BTS",
+        "artist_id": "3Nrfpe0tUJi4K4DXYWgMUX",
+        "img_url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
+        "listeners": 26068376
+    },
+    {
+        "artist": "Frank Ocean",
+        "artist_id": "2h93pZq0e7k5yf4dywlkpM",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
+        "listeners": 37058177
+    },
+    {
+        "artist": "Shakira",
+        "artist_id": "0EmeFodog0BfCgMzAIvKQp",
+        "img_url": "https://i.scdn.co/image/ab676161000051742528c726e5ddb90a7197e527",
+        "listeners": 60489548
+    },
+    {
+        "artist": "Carin Leon",
+        "artist_id": "66ihevNkSYNzRAl44dx6jJ",
+        "img_url": "https://i.scdn.co/image/ab67616100005174374620b17c4a16d8c99f2369",
+        "listeners": 29705792
+    },
+    {
+        "artist": "Shreya Ghoshal",
+        "artist_id": "0oOet2f43PA68X5RxKobEy",
+        "img_url": "https://i.scdn.co/image/ab6761610000517459303d54ce789210e745e1a9",
+        "listeners": 42661728
+    },
+    {
+        "artist": "Tate McRae",
+        "artist_id": "45dkTj5sMRSjrmBSBeiHym",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b1e307280ceb6b69dc530a7c",
+        "listeners": 42306485
+    },
+    {
+        "artist": "Adele",
+        "artist_id": "4dpARuHxo51G3z768sgnrY",
+        "img_url": "https://i.scdn.co/image/ab6761610000517468f6e5892075d7f22615bd17",
+        "listeners": 59350410
+    },
+    {
+        "artist": "Lil Baby",
+        "artist_id": "5f7VJjfbwm532GiveGC0ZK",
+        "img_url": "https://i.scdn.co/image/ab67616100005174514da623c55dc9d2155705dd",
+        "listeners": 35125501
+    },
+    {
+        "artist": "Chris Brown",
+        "artist_id": "7bXgB6jMjp9ATFy66eO08Z",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a48397e590a1c70e2cda7728",
+        "listeners": 51643544
+    },
+    {
+        "artist": "Cigarettes After Sex",
+        "artist_id": "1QAJqy2dA3ihHBFIHRphZj",
+        "img_url": "https://i.scdn.co/image/ab676161000051740e871e0389b9722cc12a4118",
+        "listeners": 31376113
+    },
+    {
+        "artist": "A.R. Rahman",
+        "artist_id": "1mYsTxnqsietFxj1OgoGbG",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c",
+        "listeners": 38241205
+    },
+    {
+        "artist": "Doechii",
+        "artist_id": "4E2rKHVDssGJm2SCDOMMJB",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ca2fee52c41d3f58ceb6474b",
+        "listeners": 26400958
+    },
+    {
+        "artist": "Hozier",
+        "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ad85a585103dfc2f3439119a",
+        "listeners": 50155984
+    },
+    {
+        "artist": "Katy Perry",
+        "artist_id": "6jJ0s89eD6GaHleKKya26X",
+        "img_url": "https://i.scdn.co/image/ab676161000051740988562f78810e47a6e3325f",
+        "listeners": 60098617
+    },
+    {
+        "artist": "Maluma",
+        "artist_id": "1r4hJ1h58CWwUQe3MxPuau",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a9bc74fbec09e03f06cddf44",
+        "listeners": 45547681
+    },
+    {
+        "artist": "Daddy Yankee",
+        "artist_id": "4VMYDCV2IEDYJArk749S6m",
+        "img_url": "https://i.scdn.co/image/ab67616100005174aa534de724c7a565c07bb3f5",
+        "listeners": 52953233
+    },
+    {
+        "artist": "One Direction",
+        "artist_id": "4AK6F7OLvEQ5QYCBNiQWHq",
+        "img_url": "https://i.scdn.co/image/45741ba38b51130bb96e00c0e24d17ba311a9293",
+        "listeners": 43661275
+    },
+    {
+        "artist": "Doja Cat",
+        "artist_id": "5cj0lLjcoR7YOSnhnX0Po5",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e94f88ff74ae4ddcab961f97",
+        "listeners": 52068719
+    },
+    {
+        "artist": "Gunna",
+        "artist_id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b978b95b8e03351df8e103af",
+        "listeners": 35802917
+    },
+    {
+        "artist": "Daniel Caesar",
+        "artist_id": "20wkVLutqVOYrc0kxFs7rA",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+        "listeners": 36440686
+    },
+    {
+        "artist": "Don Toliver",
+        "artist_id": "4Gso3d4CscCijv0lmajZWs",
+        "img_url": "https://i.scdn.co/image/ab6761610000517462d52993e245cb161f89b01c",
+        "listeners": 37898748
+    },
+    {
+        "artist": "Henrique & Juliano",
+        "artist_id": "3p7PcrEHaaKLJnPUGOtRlT",
+        "img_url": "https://i.scdn.co/image/ab676161000051744dcd8a3bff84cd7703892cf4",
+        "listeners": 16144309
+    },
+    {
+        "artist": "Anitta",
+        "artist_id": "7FNnA9vBm6EKceENgCGRMb",
+        "img_url": "https://i.scdn.co/image/ab67616100005174da2a9d91c5f52a9088851251",
+        "listeners": 42116517
+    },
+    {
+        "artist": "Lil Wayne",
+        "artist_id": "55Aa2cqylxrFIXC767Z865",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c1c08e541eae3cc82c6988c4",
+        "listeners": 51265891
+    },
+    {
+        "artist": "Calvin Harris",
+        "artist_id": "7CajNmpbOovFoOoasH2HaY",
+        "img_url": "https://i.scdn.co/image/ab67616100005174014a3c1730d960c66396ed63",
+        "listeners": 62324792
+    },
+    {
+        "artist": "Luke Combs",
+        "artist_id": "718COspgdWOnwOFpJHRZHS",
+        "img_url": "https://i.scdn.co/image/ab67616100005174bd634295d99c61823c517c3f",
+        "listeners": 24667306
+    },
+    {
+        "artist": "Romeo Santos",
+        "artist_id": "5lwmRuXgjX8xIwlnauTZIP",
+        "img_url": "https://i.scdn.co/image/ab676161000051746d8b48abede0f9e433aa6e49",
+        "listeners": 37325349
+    },
+    {
+        "artist": "Noah Kahan",
+        "artist_id": "2RQXRUsr4IW1f3mKyKsy4B",
+        "img_url": "https://i.scdn.co/image/ab676161000051748c52b10e110f62fe45761590",
+        "listeners": 28470137
+    },
+    {
+        "artist": "The Neighbourhood",
+        "artist_id": "77SW9BnxLY8rJ0RciFqkHh",
+        "img_url": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
+        "listeners": 43315980
+    },
+    {
+        "artist": "J. Cole",
+        "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "img_url": "https://i.scdn.co/image/ab676161000051744b053c29fd4b317ff825f0dc",
+        "listeners": 36934192
+    },
+    {
+        "artist": "Sam Smith",
+        "artist_id": "2wY79sveU1sp5g7SokKOiI",
+        "img_url": "https://i.scdn.co/image/ab67616100005174051c188aeec2cc35a815d4d2",
+        "listeners": 58689238
+    },
+    {
+        "artist": "Benson Boone",
+        "artist_id": "22wbnEMDvgVIAGdFeek6ET",
+        "img_url": "https://i.scdn.co/image/ab67616100005174d2b2a1cea3b6b44f4bae14b2",
+        "listeners": 43474186
+    },
+    {
+        "artist": "Anirudh Ravichander",
+        "artist_id": "4zCH9qm4R2DADamUHMCa6O",
+        "img_url": "https://i.scdn.co/image/ab676161000051740f0be2054fe9594026a6b843",
+        "listeners": 22382312
+    },
+    {
+        "artist": "Cris Mj",
+        "artist_id": "1Yj5Xey7kTwvZla8sqdsdE",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e6ad4aa72272235fc5f970dc",
+        "listeners": 34073449
+    },
+    {
+        "artist": "Oscar Maydon",
+        "artist_id": "3l9G1G9MxH6DaRhwLklaf5",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c67039c9c48db1c8605731e8",
+        "listeners": 24481613
+    },
+    {
+        "artist": "Mac Miller",
+        "artist_id": "4LLpKhyESsyAXpc4laK94U",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ed3b89aa602145fde71a163a",
+        "listeners": 28599571
+    },
+    {
+        "artist": "Charli xcx",
+        "artist_id": "25uiPmTg16RbhZWAqwLBy5",
+        "img_url": "https://i.scdn.co/image/ab67616100005174936885667ef44c306483c838",
+        "listeners": 30433698
+    },
+    {
+        "artist": "The Beatles",
+        "artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+        "listeners": 32614906
+    },
+    {
+        "artist": "Pitbull",
+        "artist_id": "0TnOYISbd1XYRBk9myaseg",
+        "img_url": "https://i.scdn.co/image/ab676161000051744051627b19277613e0e62a34",
+        "listeners": 55926945
+    },
+    {
+        "artist": "Stray Kids",
+        "artist_id": "2dIgFjalVxs4ThymZ67YCE",
+        "img_url": "https://i.scdn.co/image/ab67616100005174dbe356bad5c3576e77dbf36f",
+        "listeners": 11061065
+    },
+    {
+        "artist": "Queen",
+        "artist_id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "img_url": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+        "listeners": 48733257
+    },
+    {
+        "artist": "Lola Young",
+        "artist_id": "67FB4n52MgexGQIG8s0yUH",
+        "img_url": "https://i.scdn.co/image/ab6761610000517435d858c545fe337d3a152d65",
+        "listeners": 44432280
+    },
+    {
+        "artist": "A$AP Rocky",
+        "artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+        "img_url": "https://i.scdn.co/image/ab676161000051745c58c41a506a0d6b32cc6cad",
+        "listeners": 36245307
+    },
+    {
+        "artist": "Jimin",
+        "artist_id": "1oSPZhvZMIrWW5I41kPkkY",
+        "img_url": "https://i.scdn.co/image/ab67616100005174cb08296cca5a2d197caabb79",
+        "listeners": 10131899
+    },
+    {
+        "artist": "$uicideboy$",
+        "artist_id": "1VPmR4DJC1PlOtd0IADAO0",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b0019debdbe359a73295887f",
+        "listeners": 10614416
+    },
+    {
+        "artist": "Ozuna",
+        "artist_id": "1i8SpTcr7yvPOmcqrbnVXY",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c80f303b208a480f52e8180b",
+        "listeners": 39118733
+    },
+    {
+        "artist": "Blessd",
+        "artist_id": "1TA5sGRlKUJXBN4ZyJuDIX",
+        "img_url": "https://i.scdn.co/image/ab676161000051741b5902b400971bc07d3473dd",
+        "listeners": 25727254
+    },
+    {
+        "artist": "Michael Jackson",
+        "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+        "img_url": "https://i.scdn.co/image/ab67616100005174997cc9a4aec335d46c9481fd",
+        "listeners": 45297268
+    },
+    {
+        "artist": "Sia",
+        "artist_id": "5WUlDfRSoLAfcVSX1WnrxN",
+        "img_url": "https://i.scdn.co/image/ab6761610000517464db06dfda27bb045bc1c2f5",
+        "listeners": 58289647
+    },
+    {
+        "artist": "Radiohead",
+        "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a03696716c9ee605006047fd",
+        "listeners": 31029776
+    },
+    {
+        "artist": "Sachin-Jigar",
+        "artist_id": "1mBydYMVBECdDmMfE2sEUO",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b69f6182a27407318b632a5f",
+        "listeners": 32776518
+    },
+    {
+        "artist": "Arcane",
+        "artist_id": "57nPqD7z62gDdq37US9XJR",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a056b2ecc1a70ab57cdcc10b",
+        "listeners": 24455863
+    },
+    {
+        "artist": "PARTYNEXTDOOR",
+        "artist_id": "2HPaUgqeutzr3jx5a9WyDV",
+        "img_url": "https://i.scdn.co/image/ab67616100005174957320981e31e862bc2fb844",
+        "listeners": 22812369
+    },
+    {
+        "artist": "Avicii",
+        "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113",
+        "listeners": 41812310
+    },
+    {
+        "artist": "La Arrolladora Banda El Limón De Rene Camacho",
+        "artist_id": "5bSfBBCxY8QAk4Pifveisz",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e5bc8559d9c7aa3dce8847d6",
+        "listeners": 13721498
+    },
+    {
+        "artist": "Don Omar",
+        "artist_id": "33ScadVnbm2X8kkUqOkC6Z",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e1a911f620f24ffa1c736346",
+        "listeners": 38113217
+    },
+    {
+        "artist": "Miley Cyrus",
+        "artist_id": "5YGY8feqx7naU7z4HrwZM6",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e73dc6aa2598689da2e9476c",
+        "listeners": 55689082
+    },
+    {
+        "artist": "Dei V",
+        "artist_id": "2YRyPiW98bpkARAS4B3OQP",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c37ea490563bfe14de707f18",
+        "listeners": 28739874
+    },
+    {
+        "artist": "OneRepublic",
+        "artist_id": "5Pwc4xIPtQLFEnJriah9YJ",
+        "img_url": "https://i.scdn.co/image/ab6761610000517457138b98e7ddd5a86ee97a9b",
+        "listeners": 52860956
+    },
+    {
+        "artist": "Ovy On The Drums",
+        "artist_id": "3m5qlPf2OkihLz3dRYnkPA",
+        "img_url": "https://i.scdn.co/image/ab67616100005174bf7270a270d27e1b6c5b847e",
+        "listeners": 29678891
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
+        "listeners": 35061026
+    },
+    {
+        "artist": "Omar Courtz",
+        "artist_id": "3E12tRURRvPfHz0hAMCFYc",
+        "img_url": "https://i.scdn.co/image/ab67616100005174461144511a619789aea8f69a",
+        "listeners": 29988223
+    },
+    {
+        "artist": "JENNIE",
+        "artist_id": "250b0Wlc5Vk0CoUsaCY84M",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a8e3627e392a1d8f539cb575",
+        "listeners": 39903739
+    },
+    {
+        "artist": "beabadoobee",
+        "artist_id": "35l9BRT7MXmM8bv2WDQiyB",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e7c6cea0c83857388127fced",
+        "listeners": 26882316
+    },
+    {
+        "artist": "Lil Peep",
+        "artist_id": "2kCcBybjl3SAtIcwdWpUe3",
+        "img_url": "https://i.scdn.co/image/ab676161000051743d9d59e200e82fa53d8781a1",
+        "listeners": 18818450
+    },
+    {
+        "artist": "Harry Styles",
+        "artist_id": "6KImCVD70vtIoJWnq6nGn3",
+        "img_url": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
+        "listeners": 44200363
+    },
+    {
+        "artist": "MC Tuto",
+        "artist_id": "6aoGgTKGqtsjj48ymcNs4Z",
+        "img_url": "https://i.scdn.co/image/ab6761610000517499c26e8fb91634b00764bbb9",
+        "listeners": 17895620
+    },
+    {
+        "artist": "Shawn Mendes",
+        "artist_id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "img_url": "https://i.scdn.co/image/ab6761610000517458b4b9419486550f6fda0535",
+        "listeners": 45850101
+    },
+    {
+        "artist": "Metallica",
+        "artist_id": "2ye2Wgw4gimLv2eAKyk1NB",
+        "img_url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
+        "listeners": 27294911
+    },
+    {
+        "artist": "Rels B",
+        "artist_id": "2IMZYfNi21MGqxopj9fWx8",
+        "img_url": "https://i.scdn.co/image/ab67616100005174d1e399fd6729a5751e1f4331",
+        "listeners": 21576369
+    },
+    {
+        "artist": "Julión Álvarez y su Norteño Banda",
+        "artist_id": "1bfl0AU8SqmLkElptOprhC",
+        "img_url": "https://i.scdn.co/image/ab6761610000517447953d3ea5b643699c9b298a",
+        "listeners": 16755463
+    },
+    {
+        "artist": "Twenty One Pilots",
+        "artist_id": "3YQKmKGau1PzlVlkL1iodx",
+        "img_url": "https://i.scdn.co/image/ab67616100005174274df4dfcb960867eccedfb5",
+        "listeners": 31427424
+    },
+    {
+        "artist": "TV Girl",
+        "artist_id": "0Y6dVaC9DZtPNH4591M42W",
+        "img_url": "https://i.scdn.co/image/ab67616100005174d80695211689a9c8c3fee3b0",
+        "listeners": 22902912
+    },
+    {
+        "artist": "The Marías",
+        "artist_id": "2sSGPbdZJkaSE2AbcGOACx",
+        "img_url": "https://i.scdn.co/image/ab67616100005174af586afa2b397f1288683a76",
+        "listeners": 24542568
+    },
+    {
+        "artist": "Nirvana",
+        "artist_id": "6olE6TJLqED3rqDCT0FyPh",
+        "img_url": "https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451",
+        "listeners": 32705718
+    },
+    {
+        "artist": "Alka Yagnik",
+        "artist_id": "3gBKY0y3dFFVRqicLnVZYz",
+        "img_url": "https://i.scdn.co/image/ab67616100005174935b2dd507212bd72a71d7f9",
+        "listeners": 22050725
+    },
+    {
+        "artist": "Khalid",
+        "artist_id": "6LuN9FCkKOj5PcnpouEgny",
+        "img_url": "https://i.scdn.co/image/ab6761610000517424ff450c42d4e36fb34a7631",
+        "listeners": 50551895
+    },
+    {
+        "artist": "Nicki Minaj",
+        "artist_id": "0hCNtLu0JehylgoiP8L4Gh",
+        "img_url": "https://i.scdn.co/image/ab6761610000517407a50f0a9a8f11e5a1102cbd",
+        "listeners": 46812728
+    },
+    {
+        "artist": "Chase Atlantic",
+        "artist_id": "7cYEt1pqMgXJdq00hAwVpT",
+        "img_url": "https://i.scdn.co/image/ab676161000051745d10a5bb5f78cd7819cbfad7",
+        "listeners": 22991502
+    },
+    {
+        "artist": "Halsey",
+        "artist_id": "26VFTg2z8YR0cCuwLzESi2",
+        "img_url": "https://i.scdn.co/image/ab676161000051747f17140567e7df5799d5c3a9",
+        "listeners": 47972298
+    },
+    {
+        "artist": "Vishal-Shekhar",
+        "artist_id": "6Mv8GjQa7LKUGCAqa9qqdb",
+        "img_url": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+        "listeners": 29537052
+    },
+    {
+        "artist": "JHAYCO",
+        "artist_id": "6nVcHLIgY5pE2YCl8ubca1",
+        "img_url": "https://i.scdn.co/image/ab67616100005174cc45cb8a69f59976e2895b8c",
+        "listeners": 31441483
+    },
+    {
+        "artist": "Elton John",
+        "artist_id": "3PhoLpVuITZKcymswpck5b",
+        "img_url": "https://i.scdn.co/image/ab676161000051740a7388b95df960b5c0da8970",
+        "listeners": 48506095
+    },
+    {
+        "artist": "Brent Faiyaz",
+        "artist_id": "3tlXnStJ1fFhdScmQeLpuG",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e187dca750abfd3688836309",
+        "listeners": 22428458
+    },
+    {
+        "artist": "Marshmello",
+        "artist_id": "64KEffDW9EtZ1y2vBYgq8T",
+        "img_url": "https://i.scdn.co/image/ab6761610000517453ca421f91678c26b4f15512",
+        "listeners": 54663376
+    },
+    {
+        "artist": "Lin-Manuel Miranda",
+        "artist_id": "4aXXDj9aZnlshx7mzj3W1N",
+        "img_url": "https://i.scdn.co/image/ab67616100005174d1a725f75427ad3c3062dae2",
+        "listeners": 16918365
+    },
+    {
+        "artist": "50 Cent",
+        "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+        "img_url": "https://i.scdn.co/image/df73c0cebe56cafe705ffdba5085ccbd5680bd16",
+        "listeners": 37790562
+    },
+    {
+        "artist": "Luis Miguel",
+        "artist_id": "2nszmSgqreHSdJA3zWPyrW",
+        "img_url": "https://i.scdn.co/image/ab676161000051746481401e529e475116702a29",
+        "listeners": 15930491
+    },
+    {
+        "artist": "Kali Uchis",
+        "artist_id": "1U1el3k54VvEUzo3ybLPlM",
+        "img_url": "https://i.scdn.co/image/ab6761610000517451dfdac248da65a860963b68",
+        "listeners": 34252157
+    },
+    {
+        "artist": "Devi Sri Prasad",
+        "artist_id": "5sSzCxHtgL82pYDvx2QyEU",
+        "img_url": "https://i.scdn.co/image/ab67616100005174aa5350248841ba12e12467af",
+        "listeners": 19116365
+    },
+    {
+        "artist": "Udit Narayan",
+        "artist_id": "70B80Lwx2sxti0M1Ng9e8K",
+        "img_url": "https://i.scdn.co/image/ab676161000051748de0e6e7e55d7773931ab7f4",
+        "listeners": 27667111
+    },
+    {
+        "artist": "Quevedo",
+        "artist_id": "52iwsT98xCoGgiGntTiR7K",
+        "img_url": "https://i.scdn.co/image/ab676161000051749fabcfc29eafa94841a28a9b",
+        "listeners": 25053111
+    },
+    {
+        "artist": "Sexyy Red",
+        "artist_id": "3DbwFQlvLxRSi2uX8mf81A",
+        "img_url": "https://i.scdn.co/image/ab67616100005174d341871daa2c688ea24dcf02",
+        "listeners": 35701192
+    },
+    {
+        "artist": "The Chainsmokers",
+        "artist_id": "69GGBxA162lTqCwzJG5jLp",
+        "img_url": "https://i.scdn.co/image/ab6761610000517444434ab91c37f5407f8e83b6",
+        "listeners": 48391903
+    },
+    {
+        "artist": "Beéle",
+        "artist_id": "7a0XAaPaK2aDSqa8p3QnC7",
+        "img_url": "https://i.scdn.co/image/ab676161000051743a404fc0649794f02c02524d",
+        "listeners": 22232959
+    },
+    {
+        "artist": "Mitski",
+        "artist_id": "2uYWxilOVlUdk4oV9DvwqK",
+        "img_url": "https://i.scdn.co/image/ab676161000051744bdb3888818637acb71c4a13",
+        "listeners": 25537792
+    },
+    {
+        "artist": "Jung Kook",
+        "artist_id": "6HaGTQPmzraVmaVxvz6EUc",
+        "img_url": "https://i.scdn.co/image/ab6761610000517440a7268dd742e5f63759b960",
+        "listeners": 18240062
+    },
+    {
+        "artist": "Morat",
+        "artist_id": "5C4PDR4LnhZTbVnKWXuDKD",
+        "img_url": "https://i.scdn.co/image/ab67616100005174300488e7d301023f9d92d6cc",
+        "listeners": 15692590
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "artist_id": "4O15NlyKLIASxsJ0PrXPfz",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a8ce348f34f18241d3249fa9",
+        "listeners": 27513952
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "artist_id": "08GQAI4eElDnROBrJRGE0X",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c8752dd511cda8c31e9daee8",
+        "listeners": 34528722
+    },
+    {
+        "artist": "Chris Stapleton",
+        "artist_id": "4YLtscXsxbVgi031ovDDdh",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a0c87c8f329b436eac8b9784",
+        "listeners": 21768159
+    },
+    {
+        "artist": "Atif Aslam",
+        "artist_id": "2oSONSC9zQ4UonDKnLqksx",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84",
+        "listeners": 25393390
+    },
+    {
+        "artist": "Duki",
+        "artist_id": "1bAftSH8umNcGZ0uyV7LMg",
+        "img_url": "https://i.scdn.co/image/ab676161000051740f682e8d99b232d621a25c3b",
+        "listeners": 19083174
+    },
+    {
+        "artist": "Danny Ocean",
+        "artist_id": "5H1nN1SzW0qNeUEZvuXjAj",
+        "img_url": "https://i.scdn.co/image/ab676161000051743b02770b21517dc3a03e340d",
+        "listeners": 27759551
+    },
+    {
+        "artist": "Karan Aujla",
+        "artist_id": "6DARBhWbfcS9E4yJzcliqQ",
+        "img_url": "https://i.scdn.co/image/ab676161000051747aa689cd7ca136098b26c20d",
+        "listeners": 17164561
+    },
+    {
+        "artist": "System Of A Down",
+        "artist_id": "5eAWCfyUhZtHHtBdNk56l1",
+        "img_url": "https://i.scdn.co/image/ab6761610000517460063d3451ade8f9fab397c2",
+        "listeners": 22854141
+    },
+    {
+        "artist": "Tiësto",
+        "artist_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e84e08fb1dfa2bf9b5a61563",
+        "listeners": 38673935
+    },
+    {
+        "artist": "Amitabh Bhattacharya",
+        "artist_id": "2fMqTqiTxUDlmcOEPaQSsx",
+        "img_url": "https://i.scdn.co/image/ab6761610000517406f04f40ecb8ca92cb714908",
+        "listeners": 29289280
+    },
+    {
+        "artist": "BigXthaPlug",
+        "artist_id": "6qxpnaukVayrQn6ViNvu9I",
+        "img_url": "https://i.scdn.co/image/ab6761610000517467d85a54c927a30a7c94138d",
+        "listeners": 17162455
+    },
+    {
+        "artist": "Young Thug",
+        "artist_id": "50co4Is1HCEo8bhOyUWKpn",
+        "img_url": "https://i.scdn.co/image/ab67616100005174547d2b41c9f2c97318aad0ed",
+        "listeners": 28549476
+    },
+    {
+        "artist": "Tanishk Bagchi",
+        "artist_id": "4f7KfxeHq9BiylGmyXepGt",
+        "img_url": "https://i.scdn.co/image/ab6761610000517496f049daefd1875282baab0a",
+        "listeners": 28368916
+    },
+    {
+        "artist": "Mrs. GREEN APPLE",
+        "artist_id": "4QvgGvpgzgyUOo8Yp8LDm9",
+        "img_url": "https://i.scdn.co/image/ab676161000051743745f83871d6016e5e9ce5d8",
+        "listeners": 7203836
+    },
+    {
+        "artist": "Green Day",
+        "artist_id": "7oPftvlwr6VrsViSDV7fJY",
+        "img_url": "https://i.scdn.co/image/ab676161000051746ff0cd5ef2ecf733804984bb",
+        "listeners": 31597162
+    },
+    {
+        "artist": "Milo j",
+        "artist_id": "19HM5j0ULGSmEoRcrSe5x3",
+        "img_url": "https://i.scdn.co/image/ab676161000051745b2ed98931971ce81f0f22e7",
+        "listeners": 15122904
+    },
+    {
+        "artist": "AC/DC",
+        "artist_id": "711MCceyCBcFnzjGY4Q7Un",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c4c77549095c86acb4e77b37",
+        "listeners": 33161662
+    },
+    {
+        "artist": "Britney Spears",
+        "artist_id": "26dSoYclwsYLMAKD3tpOr4",
+        "img_url": "https://i.scdn.co/image/ab676161000051743a49b0a3954e460a8a76ed90",
+        "listeners": 38069900
+    },
+    {
+        "artist": "Florence + The Machine",
+        "artist_id": "1moxjboGR7GNWYIMWsRjgG",
+        "img_url": "https://i.scdn.co/image/ab67616100005174e3c37f869b830d1cf1ec829a",
+        "listeners": 28089953
+    },
+    {
+        "artist": "The Kid LAROI",
+        "artist_id": "2tIP7SsRs7vjIcLrU85W8J",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ebf5c408f4d003817161e061",
+        "listeners": 39959913
+    },
+    {
+        "artist": "Ryan Castro",
+        "artist_id": "7j6DKwmjbxvpQO8h914uEz",
+        "img_url": "https://i.scdn.co/image/ab67616100005174dce5dd636121642d8994a15a",
+        "listeners": 25620237
+    },
+    {
+        "artist": "Bizarrap",
+        "artist_id": "716NhGYqD1jl2wI1Qkgq36",
+        "img_url": "https://i.scdn.co/image/ab6761610000517414add0d3419426b84158b913",
+        "listeners": 30613884
+    },
+    {
+        "artist": "YoungBoy Never Broke Again",
+        "artist_id": "7wlFDEWiM5OoIAt8RSli8b",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b1d6eaf7ad3417765577cac4",
+        "listeners": 15643697
+    },
+    {
+        "artist": "FloyyMenor",
+        "artist_id": "7CvTknweLr9feJtRGrpDBy",
+        "img_url": "https://i.scdn.co/image/ab67616100005174a410f779bd969d6d1e4815a2",
+        "listeners": 28072752
+    },
+    {
+        "artist": "Morad",
+        "artist_id": "4az97MtWmBQ5Db3GfDh9j9",
+        "img_url": "https://i.scdn.co/image/ab6761610000517478be1444357da95706de5d12",
+        "listeners": 15585795
+    },
+    {
+        "artist": "Camilo",
+        "artist_id": "28gNT5KBp7IjEOQoevXf9N",
+        "img_url": "https://i.scdn.co/image/ab676161000051744d8a681290f905bc52a05c5c",
+        "listeners": 24308594
+    },
+    {
+        "artist": "Gorillaz",
+        "artist_id": "3AA28KZvwAUcZuOKwyblJQ",
+        "img_url": "https://i.scdn.co/image/ab67616100005174ce5f4c2722732fbd7e814dad",
+        "listeners": 29127112
+    },
+    {
+        "artist": "Manuel Turizo",
+        "artist_id": "0tmwSHipWxN12fsoLcFU3B",
+        "img_url": "https://i.scdn.co/image/ab67616100005174fb87d42d66722931e826d630",
+        "listeners": 32133178
+    },
+    {
+        "artist": "Selena Gomez",
+        "artist_id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "img_url": "https://i.scdn.co/image/ab67616100005174c3c753851496854e29abff7a",
+        "listeners": 40817919
+    },
+    {
+        "artist": "Natanzinho Lima",
+        "artist_id": "0Il5vC8lqunSFNav4mMLxU",
+        "img_url": "https://i.scdn.co/image/ab676161000051742dd5f2f96e301dd661349efb",
+        "listeners": 10634437
+    },
+    {
+        "artist": "MC Ryan SP",
+        "artist_id": "75i9GaW2MJUgt4BkdUnuUY",
+        "img_url": "https://i.scdn.co/image/ab676161000051747129816bfd2e5be59b29765b",
+        "listeners": 16016901
+    },
+    {
+        "artist": "Bob Marley & The Wailers",
+        "artist_id": "2QsynagSdAqZj3U9HgDzjD",
+        "img_url": "https://i.scdn.co/image/02fd758d9805ef44d1caafc35ff17a47f9dff098",
+        "listeners": 23299853
+    },
+    {
+        "artist": "Black Eyed Peas",
+        "artist_id": "1yxSLGMDHlW21z4YXirZDS",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b3037310c07b99cbefbd2c6d",
+        "listeners": 42778109
+    },
+    {
+        "artist": "Lil Tecca",
+        "artist_id": "4Ga1P7PMIsmqEZqhYZQgDo",
+        "img_url": "https://i.scdn.co/image/ab67616100005174eeba43c460454fcababda14f",
+        "listeners": 22914665
+    },
+    {
+        "artist": "Camila Cabello",
+        "artist_id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "img_url": "https://i.scdn.co/image/ab6761610000517476470faf6330235edbcb90a9",
+        "listeners": 44983176
+    },
+    {
+        "artist": "Laufey",
+        "artist_id": "7gW0r5CkdEUMm42w9XpyZO",
+        "img_url": "https://i.scdn.co/image/ab6761610000517471eb8f92b86868400ed4e006",
+        "listeners": 15428221
+    },
+    {
+        "artist": "ABBA",
+        "artist_id": "0LcJLqbBmaGUft1e9Mm8HV",
+        "img_url": "https://i.scdn.co/image/ab6761610000517481a5ec3c9b4a6750440904d8",
+        "listeners": 31598972
+    },
+    {
+        "artist": "Arcángel",
+        "artist_id": "4SsVbpTthjScTS7U2hmr1X",
+        "img_url": "https://i.scdn.co/image/ab67616100005174afdf17286a0d7a23ad388587",
+        "listeners": 25237289
+    },
+    {
+        "artist": "Jorge & Mateus",
+        "artist_id": "1elUiq4X7pxej6FRlrEzjM",
+        "img_url": "https://i.scdn.co/image/ab6761610000517477937baabc49dea13c17c706",
+        "listeners": 13789539
+    },
+    {
+        "artist": "Chino Pacas",
+        "artist_id": "2rmkQLzj0k4nZdQehOUByO",
+        "img_url": "https://i.scdn.co/image/ab6761610000517452f3df55b54da325acb93e84",
+        "listeners": 17661464
+    },
+    {
+        "artist": "Mac DeMarco",
+        "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "img_url": "https://i.scdn.co/image/ab676161000051743cef7752073cbbd2cc04c6f0",
+        "listeners": 20653776
+    },
+    {
+        "artist": "Deftones",
+        "artist_id": "6Ghvu1VvMGScGpOUJBAHNH",
+        "img_url": "https://i.scdn.co/image/ab676161000051744b2da0b72cab26ac518f1f0d",
+        "listeners": 12451026
+    },
+    {
+        "artist": "Dominic Fike",
+        "artist_id": "6USv9qhCn6zfxlBQIYJ9qs",
+        "img_url": "https://i.scdn.co/image/ab67616100005174b62462a1a43ff08f8a982791",
+        "listeners": 24376751
+    }
+]

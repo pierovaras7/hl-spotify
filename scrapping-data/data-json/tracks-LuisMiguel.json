@@ -1,0 +1,402 @@
+[
+    {
+        "nombre": "La Media Vuelta",
+        "artista": "Luis Miguel",
+        "album": "Segundo Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273830debe4a54e0122a6138a71",
+        "id": "1lKI9y1DL6QnYTZguVmACX",
+        "reproducciones": 472812049
+    },
+    {
+        "nombre": "Hasta Que Me Olvides",
+        "artista": "Luis Miguel",
+        "album": "Aries",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e5f098d592c28ed04867b918",
+        "id": "6vPAmoERUMRoTZaCCSWQ12",
+        "reproducciones": 511301946
+    },
+    {
+        "nombre": "Ahora Te Puedes Marchar",
+        "artista": "Luis Miguel",
+        "album": "Soy Como Quiero Ser",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27320e3b8f2b044117fe02790e1",
+        "id": "1uKjQoh8JZj9ryuYRhpd7E",
+        "reproducciones": 807091877
+    },
+    {
+        "nombre": "La Incondicional",
+        "artista": "Luis Miguel",
+        "album": "Busca Una Mujer",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27384fe22dc0e9d864fd44ff9f8",
+        "id": "6F9yAYUaNbUhdlQyt5uZ3b",
+        "reproducciones": 646780313
+    },
+    {
+        "nombre": "No Sé Tú",
+        "artista": "Luis Miguel",
+        "album": "Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d1cbd51f69cb9803ea603c66",
+        "id": "2DAsLftcRKP3iarCPmI1RY",
+        "reproducciones": 309863619
+    },
+    {
+        "nombre": "Tengo Todo Excepto a Ti",
+        "artista": "Luis Miguel",
+        "album": "20 Años",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b1504069929fe0a81594eb33",
+        "id": "27XboT5Wb8VOn7A0heo3Ei",
+        "reproducciones": 326686872
+    },
+    {
+        "nombre": "Por Debajo De La Mesa",
+        "artista": "Luis Miguel",
+        "album": "Romances",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a6bc5afeb9e98493bd97bd4e",
+        "id": "1livAifXh1DMv25kTfFFHR",
+        "reproducciones": 403498912
+    },
+    {
+        "nombre": "Culpable O No - Miénteme Como Siempre",
+        "artista": "Luis Miguel",
+        "album": "Busca Una Mujer",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27384fe22dc0e9d864fd44ff9f8",
+        "id": "7BwxbmYFy0l3ROHDjV2c14",
+        "reproducciones": 433679988
+    },
+    {
+        "nombre": "Échame a Mi La Culpa",
+        "artista": "Luis Miguel",
+        "album": "Mexico en la Piel (edicion diamante)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f1443401545e24efd564c2e9",
+        "id": "2TOBMDqbtPP6sAQtWc2Br9",
+        "reproducciones": 156488976
+    },
+    {
+        "nombre": "Entrégate",
+        "artista": "Luis Miguel",
+        "album": "20 Años",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b1504069929fe0a81594eb33",
+        "id": "5fj3zNkXfOlrJGVcZBId6D",
+        "reproducciones": 260663471
+    },
+    {
+        "nombre": "Usted",
+        "artista": "Luis Miguel",
+        "album": "Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d1cbd51f69cb9803ea603c66",
+        "id": "0MHSnVk2CrGP8hIkxpxwMJ",
+        "reproducciones": 166730363
+    },
+    {
+        "nombre": "Fría Como El Viento",
+        "artista": "Luis Miguel",
+        "album": "Busca Una Mujer",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27384fe22dc0e9d864fd44ff9f8",
+        "id": "2J4qy8RyfwgXHt73cWOE6P",
+        "reproducciones": 225524550
+    },
+    {
+        "nombre": "Si tú te atreves",
+        "artista": "Luis Miguel",
+        "album": "Cómplices",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bff862e2b02cc9e346ab21be",
+        "id": "4tljir1112UOLjqP2lXn4J",
+        "reproducciones": 145885463
+    },
+    {
+        "nombre": "Sabes Una Cosa",
+        "artista": "Luis Miguel",
+        "album": "Mexico en la Piel (edicion diamante)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f1443401545e24efd564c2e9",
+        "id": "21Ullb4TU8qMsQd0Iselng",
+        "reproducciones": 244669215
+    },
+    {
+        "nombre": "Si Nos Dejan - En Vivo",
+        "artista": "Luis Miguel",
+        "album": "El Concierto",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273169e706f0973015f03f4de97",
+        "id": "7nAvryV9PVCt9PQGPx7I0z",
+        "reproducciones": 210008824
+    },
+    {
+        "nombre": "Amarte es un placer",
+        "artista": "Luis Miguel",
+        "album": "Amarte Es Un Placer",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2731b25e96513de862a69d1c54c",
+        "id": "4lQWZGUrquRfH9se6nlmp3",
+        "reproducciones": 163105106
+    },
+    {
+        "nombre": "Sabor a Mi",
+        "artista": "Luis Miguel",
+        "album": "Romances",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a6bc5afeb9e98493bd97bd4e",
+        "id": "5kB8WUUla9s2w7yXD7h4CQ",
+        "reproducciones": 246255767
+    },
+    {
+        "nombre": "Mucho Corazón",
+        "artista": "Luis Miguel",
+        "album": "Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d1cbd51f69cb9803ea603c66",
+        "id": "5C1HYHG6b1wk9MpC2UP9C6",
+        "reproducciones": 68318983
+    },
+    {
+        "nombre": "La Chica Del Bikini Azul",
+        "artista": "Luis Miguel",
+        "album": "Palabra De Honor",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273ad808013c572aad37455fe66",
+        "id": "6Ucocvd2YaEJRPmbT4SFgu",
+        "reproducciones": 242166043
+    },
+    {
+        "nombre": "La bikina - En vivo",
+        "artista": "Luis Miguel",
+        "album": "Vivo",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2737ceabb44b7d22d151d7af5ea",
+        "id": "1jxO9AwMqYynDsuMWKrPvi",
+        "reproducciones": 194633595
+    },
+    {
+        "nombre": "Suave",
+        "artista": "Luis Miguel",
+        "album": "Aries",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e5f098d592c28ed04867b918",
+        "id": "4p7XH4NhQ25iGYrrbg93gt",
+        "reproducciones": 246093786
+    },
+    {
+        "nombre": "La Barca",
+        "artista": "Luis Miguel",
+        "album": "Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d1cbd51f69cb9803ea603c66",
+        "id": "2MkeDQiyZ8MV45IjLhCPSF",
+        "reproducciones": 145223833
+    },
+    {
+        "nombre": "El Reloj",
+        "artista": "Luis Miguel",
+        "album": "Romances",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a6bc5afeb9e98493bd97bd4e",
+        "id": "2JiRKaA4JAHMPCqU7D74w6",
+        "reproducciones": 143924055
+    },
+    {
+        "nombre": "Todo Y Nada",
+        "artista": "Luis Miguel",
+        "album": "Segundo Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273830debe4a54e0122a6138a71",
+        "id": "1FJSXlDrgr9AS37w67CPHP",
+        "reproducciones": 82207938
+    },
+    {
+        "nombre": "Un Hombre Busca a Una Mujer",
+        "artista": "Luis Miguel",
+        "album": "Busca Una Mujer",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27384fe22dc0e9d864fd44ff9f8",
+        "id": "3ZRUhvuUE2lwZF19puKM8P",
+        "reproducciones": 170832928
+    },
+    {
+        "nombre": "Inolvidable",
+        "artista": "Luis Miguel",
+        "album": "Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d1cbd51f69cb9803ea603c66",
+        "id": "2pSZjEpbXwlocV8js7MNmu",
+        "reproducciones": 152243645
+    },
+    {
+        "nombre": "Te necesito",
+        "artista": "Luis Miguel",
+        "album": "33",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2733bc5251815626cf22fc71b30",
+        "id": "0svWUjefj6RBlIQxA3VCvx",
+        "reproducciones": 176715019
+    },
+    {
+        "nombre": "Historia De Un Amor",
+        "artista": "Luis Miguel",
+        "album": "Segundo Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273830debe4a54e0122a6138a71",
+        "id": "6av3uLAacGG7c9fjshWmuH",
+        "reproducciones": 99992488
+    },
+    {
+        "nombre": "Y - En vivo",
+        "artista": "Luis Miguel",
+        "album": "Vivo",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2737ceabb44b7d22d151d7af5ea",
+        "id": "6QbEENozheS46xQY56acH9",
+        "reproducciones": 100161787
+    },
+    {
+        "nombre": "La Gloria Eres Tu",
+        "artista": "Luis Miguel",
+        "album": "Romances",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a6bc5afeb9e98493bd97bd4e",
+        "id": "0toNfHRTPmbsHi63G7Vgdz",
+        "reproducciones": 134514279
+    },
+    {
+        "nombre": "No Me Platiques Más",
+        "artista": "Luis Miguel",
+        "album": "Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d1cbd51f69cb9803ea603c66",
+        "id": "1kS5xIvvytkr5Ut1JkQ9SM",
+        "reproducciones": 128326797
+    },
+    {
+        "nombre": "Soy lo prohibido",
+        "artista": "Luis Miguel",
+        "album": "¡MÉXICO Por Siempre!",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735c342174dcbadcc1d686121c",
+        "id": "3zceb1fYe5jdwEmuGvJINO",
+        "reproducciones": 100256640
+    },
+    {
+        "nombre": "O Tu O Ninguna",
+        "artista": "Luis Miguel",
+        "album": "Amarte Es Un Placer",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2731b25e96513de862a69d1c54c",
+        "id": "7u5wdRqlAC4qeRp47e7hce",
+        "reproducciones": 131458490
+    },
+    {
+        "nombre": "Cuando Calienta El Sol",
+        "artista": "Luis Miguel",
+        "album": "Soy Como Quiero Ser",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27320e3b8f2b044117fe02790e1",
+        "id": "3hVaK0zn3sVWWY8TvN1Te5",
+        "reproducciones": 248977943
+    },
+    {
+        "nombre": "De Qué Manera Te Olvido",
+        "artista": "Luis Miguel",
+        "album": "Mexico en la Piel (edicion diamante)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f1443401545e24efd564c2e9",
+        "id": "0j0ntQup1Wp9ZiQTUvgnhm",
+        "reproducciones": 79607297
+    },
+    {
+        "nombre": "Voy a Apagar La Luz / Contigo Aprendí",
+        "artista": "Luis Miguel",
+        "album": "Romances",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a6bc5afeb9e98493bd97bd4e",
+        "id": "4atpkWXGHqm8ojbmKF0i4A",
+        "reproducciones": 78929893
+    },
+    {
+        "nombre": "Palabra De Honor",
+        "artista": "Luis Miguel",
+        "album": "Palabra De Honor",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273ad808013c572aad37455fe66",
+        "id": "3WY8ecMJJjdepU2k2NoFv1",
+        "reproducciones": 143300602
+    },
+    {
+        "nombre": "Llamarada",
+        "artista": "Luis Miguel",
+        "album": "¡MÉXICO Por Siempre!",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735c342174dcbadcc1d686121c",
+        "id": "6JEgMLyMEqFTaoQyMg4vhQ",
+        "reproducciones": 119178552
+    },
+    {
+        "nombre": "El Día Que Me Quieras",
+        "artista": "Luis Miguel",
+        "album": "Segundo Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273830debe4a54e0122a6138a71",
+        "id": "3NKIbFFAioTfznWbnjAMXX",
+        "reproducciones": 107018683
+    },
+    {
+        "nombre": "Oro De Ley",
+        "artista": "Luis Miguel",
+        "album": "20 Años",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b1504069929fe0a81594eb33",
+        "id": "2PZtKB8fDoDGLot27oUnWH",
+        "reproducciones": 78478835
+    },
+    {
+        "nombre": "Yo Que No Vivo Sin Ti",
+        "artista": "Luis Miguel",
+        "album": "Soy Como Quiero Ser",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27320e3b8f2b044117fe02790e1",
+        "id": "5SnH7xubfdfvHomShSjiIe",
+        "reproducciones": 71693647
+    },
+    {
+        "nombre": "No discutamos",
+        "artista": "Luis Miguel",
+        "album": "¡MÉXICO Por Siempre!",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735c342174dcbadcc1d686121c",
+        "id": "4LOoLsXcPdAHzPwSznpq3Y",
+        "reproducciones": 58475683
+    },
+    {
+        "nombre": "Como Yo Te Amé",
+        "artista": "Luis Miguel",
+        "album": "Segundo Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273830debe4a54e0122a6138a71",
+        "id": "4uP2EipoPEAq3InMMCQMG9",
+        "reproducciones": 47926585
+    },
+    {
+        "nombre": "Motivos",
+        "artista": "Luis Miguel",
+        "album": "Mexico en la Piel (edicion diamante)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f1443401545e24efd564c2e9",
+        "id": "4yEJ1SNpgfK5GPx3Y0YhIU",
+        "reproducciones": 79912575
+    },
+    {
+        "nombre": "Cómo duele",
+        "artista": "Luis Miguel",
+        "album": "Mis Romances",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273fce696a58c41bc9d3d9135ae",
+        "id": "2inyRCfWB1ey6vNX43TTCl",
+        "reproducciones": 47895198
+    },
+    {
+        "nombre": "Hoy El Aire Huele a Ti",
+        "artista": "Luis Miguel",
+        "album": "20 Años",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b1504069929fe0a81594eb33",
+        "id": "2ZYvD9zQf1iBLelkgkUl7U",
+        "reproducciones": 54332230
+    },
+    {
+        "nombre": "Somos Novios",
+        "artista": "Luis Miguel",
+        "album": "Segundo Romance",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273830debe4a54e0122a6138a71",
+        "id": "4dr2h9rnEW6OBxm8LvRBW2",
+        "reproducciones": 87584022
+    },
+    {
+        "nombre": "México En La Piel",
+        "artista": "Luis Miguel",
+        "album": "Mexico en la Piel (edicion diamante)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f1443401545e24efd564c2e9",
+        "id": "5BPq1UQa1NSN647R6IzD3n",
+        "reproducciones": 130926321
+    },
+    {
+        "nombre": "Amor (Amor, amor, amor)",
+        "artista": "Luis Miguel",
+        "album": "Mis Romances",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273fce696a58c41bc9d3d9135ae",
+        "id": "1k4GYtmW7edpJ9uhQmzO66",
+        "reproducciones": 45072296
+    },
+    {
+        "nombre": "Será Que No Me Amas (Blame It on the Boogie)",
+        "artista": "Luis Miguel",
+        "album": "20 Años",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b1504069929fe0a81594eb33",
+        "id": "0ULXIAoxSZBcOwygC3PA0i",
+        "reproducciones": 49001513
+    }
+]

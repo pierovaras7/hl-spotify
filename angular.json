@@ -24,6 +24,11 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/scrapping-data/data-json",
+                "output": "scrapping-data/data-json"
               }
             ],
             "styles": [

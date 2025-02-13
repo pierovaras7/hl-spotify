@@ -1,0 +1,802 @@
+[
+    {
+        "nombre": "Lamento Boliviano",
+        "artista": "Los Enanitos Verdes",
+        "album": "Big Bang",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27335bf8a2179962114b8ec7585",
+        "id": "6Pur3hWy6Nzc27ilmsp5HA",
+        "reproducciones": 806345002
+    },
+    {
+        "nombre": "Es Por Ti",
+        "artista": "Juanes",
+        "album": "Un Día Normal",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27323a1613112c1ecf946f51177",
+        "id": "3b1IQflSLrgzYQPGFzI9cl",
+        "reproducciones": 577260453
+    },
+    {
+        "nombre": "Oye Mi Amor",
+        "artista": "Maná",
+        "album": "¿Dónde Jugarán Los Niños?",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27363f3b7f5abf86ad483b57b77",
+        "id": "5EJ2THuhAapEIeQOtXUQ0x",
+        "reproducciones": 547310838
+    },
+    {
+        "nombre": "En algún lugar",
+        "artista": "Duncan Dhu",
+        "album": "El Grito Del Tiempo",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a4b46c9ca1b602ef5df37884",
+        "id": "3UIENhLRdFIOuRan92cAQu",
+        "reproducciones": 408650025
+    },
+    {
+        "nombre": "Devuélveme a mi chica",
+        "artista": "Hombres G",
+        "album": "Hombres G (Edición 30 Aniversario)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734bebefadddafd8c9e20a8c35",
+        "id": "1Wrzhfa5bNlqvsnCztz190",
+        "reproducciones": 730270170
+    },
+    {
+        "nombre": "Flaca",
+        "artista": "Andrés Calamaro",
+        "album": "Alta Suciedad",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e4b8ec3d2ffe1f77c7185d48",
+        "id": "1p7m9H4H8s0Y7SgRm7j3ED",
+        "reproducciones": 510392050
+    },
+    {
+        "nombre": "Para No Verte Más",
+        "artista": "La Mosca",
+        "album": "Visperas De Carnaval",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27360fc79eea7acba5248619f82",
+        "id": "19CmuECYssqkPWANF4nLWM",
+        "reproducciones": 460483403
+    },
+    {
+        "nombre": "Eres",
+        "artista": "Café Tacvba",
+        "album": "Cuatro Caminos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273624927252564ef4625307897",
+        "id": "6kdCN6gTWLcLxmLXoUcwuI",
+        "reproducciones": 466945857
+    },
+    {
+        "nombre": "Labios Rotos - En Vivo Desde México / 2010",
+        "artista": "Zoé",
+        "album": "MTV Unplugged Música De Fondo (Reissue/Live)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739abba2e4a7600af6c16988a9",
+        "id": "1nULBrlzWatdcjA2ZctIMv",
+        "reproducciones": 420754368
+    },
+    {
+        "nombre": "Afuera",
+        "artista": "Caifanes",
+        "album": "El Nervio Del Volcan",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27336aeaab4dc91a8dea53a2d8f",
+        "id": "3pJfnBjO3kjudEchcPEDxS",
+        "reproducciones": 358405846
+    },
+    {
+        "nombre": "Clavado en Un Bar",
+        "artista": "Maná",
+        "album": "Sueños Líquidos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2732f770148868be769ff9f7a90",
+        "id": "78DVpEWwmJFC25KGz8fJuE",
+        "reproducciones": 456527928
+    },
+    {
+        "nombre": "Inevitable",
+        "artista": "Shakira",
+        "album": "Donde Estan Los Ladrones",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273bfcff1dd252b22bba16a2a5d",
+        "id": "78dbqYDvx6FOefROApu9w0",
+        "reproducciones": 455151938
+    },
+    {
+        "nombre": "A un minuto de ti",
+        "artista": "Mikel Erentxun",
+        "album": "Naufragios",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543",
+        "id": "7HlULtRMJSTzorUMebka0f",
+        "reproducciones": 215977707
+    },
+    {
+        "nombre": "Trátame Suavemente - Remasterizado 2007",
+        "artista": "Soda Stereo",
+        "album": "Soda Stereo (Remastered)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738fd9b16eb6bdd20c95717258",
+        "id": "65DBZofI0b79kfHTcWWDuU",
+        "reproducciones": 402872716
+    },
+    {
+        "nombre": "Mil Horas - 1994 Remastered Version",
+        "artista": "Los Abuelos De La Nada",
+        "album": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c980aa1225aa4e8828c532cd",
+        "id": "4pHdHimCLvD4nx8lh6uQyx",
+        "reproducciones": 460342549
+    },
+    {
+        "nombre": "A Dios Le Pido",
+        "artista": "Juanes",
+        "album": "Un Día Normal",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27323a1613112c1ecf946f51177",
+        "id": "129lYDVKnWtlJc2PZJviuA",
+        "reproducciones": 328291863
+    },
+    {
+        "nombre": "Rayando el Sol",
+        "artista": "Maná",
+        "album": "Falta Amor",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2738f301c227a7a88dd9e9f0dc0",
+        "id": "4Ofg5uuH7qqDIXpAJMpXZV",
+        "reproducciones": 428059735
+    },
+    {
+        "nombre": "A las Nueve",
+        "artista": "No Te Va Gustar",
+        "album": "El Calor Del Pleno Invierno",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e73cfb1faa1d5bde8cc96c08",
+        "id": "0CgpCtEPvyDizcg2p47VrU",
+        "reproducciones": 209462573
+    },
+    {
+        "nombre": "Soñé - En Vivo",
+        "artista": "Zoé",
+        "album": "MTV Unplugged Música De Fondo (Reissue/Live)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2739abba2e4a7600af6c16988a9",
+        "id": "2VhJ4nrPorAbySEgO4V0BS",
+        "reproducciones": 329890895
+    },
+    {
+        "nombre": "Viento",
+        "artista": "Caifanes",
+        "album": "Caifanes",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27352842eb76a050aa8daec1251",
+        "id": "6QJCZyJv1fhkCyZA3lRoAD",
+        "reproducciones": 281914268
+    },
+    {
+        "nombre": "De Música Ligera - Remasterizado 2007",
+        "artista": "Soda Stereo",
+        "album": "Canción Animal (Remastered)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c451ed28353639e79b4d97d9",
+        "id": "2lpIh6Gr6HYjg1CFBaucS5",
+        "reproducciones": 618581613
+    },
+    {
+        "nombre": "La Camisa Negra",
+        "artista": "Juanes",
+        "album": "Mi Sangre",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c091c40987e92a9256d2f210",
+        "id": "2EM9zpAc7PVeoAydmbfVIL",
+        "reproducciones": 432676959
+    },
+    {
+        "nombre": "Crimen",
+        "artista": "Gustavo Cerati",
+        "album": "Ahí Vamos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0",
+        "id": "3oqWr0jDWNXxWufNogGREp",
+        "reproducciones": 328628290
+    },
+    {
+        "nombre": "El ataque de las chicas cocodrilo",
+        "artista": "Hombres G",
+        "album": "La Cagaste... Burt Lancaster",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b716dc7e3dfc9c236ec0f03c",
+        "id": "3quyxN3SapEsojxk1Uw10K",
+        "reproducciones": 278475041
+    },
+    {
+        "nombre": "En El Muelle de San Blas",
+        "artista": "Maná",
+        "album": "Sueños Líquidos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2732f770148868be769ff9f7a90",
+        "id": "0mvocLIWUnT10znvIXwHGr",
+        "reproducciones": 448306564
+    },
+    {
+        "nombre": "Cuando Pase El Temblor - Remasterizado 2007",
+        "artista": "Soda Stereo",
+        "album": "Nada Personal (Remastered)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e28947f6ad2f100af9c1965a",
+        "id": "3uMYq07Kj5m564OQwdSCrD",
+        "reproducciones": 444776290
+    },
+    {
+        "nombre": "Tu Carcel - En Vivo",
+        "artista": "Los Enanitos Verdes",
+        "album": "En Vivo",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+        "id": "1lAFWiaVhJhvQ5Gtzp6vSu",
+        "reproducciones": 220505823
+    },
+    {
+        "nombre": "La Célula Que Explota",
+        "artista": "Caifanes",
+        "album": "El Diablito",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a2ada1807eb576d7ad43b721",
+        "id": "5mB0MGsRfKZALHrXjnktCK",
+        "reproducciones": 299635038
+    },
+    {
+        "nombre": "Ese Maldito Momento",
+        "artista": "No Te Va Gustar",
+        "album": "El Calor Del Pleno Invierno",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e73cfb1faa1d5bde8cc96c08",
+        "id": "6MuJUSYCqA4FpMogUHzb2R",
+        "reproducciones": 156864099
+    },
+    {
+        "nombre": "Entre dos tierras",
+        "artista": "Heroes Del Silencio",
+        "album": "Senderos De Traición",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273ae81e451f5b5d7d701b0a9f5",
+        "id": "4rJdaSwOCHLBhxdMsymeMw",
+        "reproducciones": 289084060
+    },
+    {
+        "nombre": "Sabor a Chocolate",
+        "artista": "Elefante",
+        "album": "Lo Que Andábamos Buscando (Special Para CEV)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2736bc311ecff7b855508f961c3",
+        "id": "29OzJTIOTjCgR7fLyEXY7u",
+        "reproducciones": 221014150
+    },
+    {
+        "nombre": "Como Eran Las Cosas",
+        "artista": "Babasonicos",
+        "album": "Mucho",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273894cafe63e54743a07ece9d3",
+        "id": "61qPUnazSdkvua4wgA4L8C",
+        "reproducciones": 125993414
+    },
+    {
+        "nombre": "Lobo-hombre en París",
+        "artista": "La Unión",
+        "album": "Grandes Exitos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27308aef4057b0b7b2a3405b39f",
+        "id": "3M1H1CWjrSq7nxABHc8EXv",
+        "reproducciones": 450846833
+    },
+    {
+        "nombre": "Adiós",
+        "artista": "Gustavo Cerati",
+        "album": "Ahí Vamos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0",
+        "id": "1rh4kDY9T4fHVDum8Foi5k",
+        "reproducciones": 232810501
+    },
+    {
+        "nombre": "Kumbala",
+        "artista": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+        "album": "El Circo",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273328736ed5cd212182ca2e315",
+        "id": "5EfHXTq8UPCFyPDvCNIKMm",
+        "reproducciones": 227745949
+    },
+    {
+        "nombre": "Arrullo De Estrellas",
+        "artista": "Zoé",
+        "album": "Programaton",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2732fab9c100d51bfb22d5aff6c",
+        "id": "1p4rYrxjVkj6v2eMzRhLfA",
+        "reproducciones": 226400727
+    },
+    {
+        "nombre": "La Planta",
+        "artista": "Caos",
+        "album": "La Vida Gacha",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27386448f2a4c7f1bc8369308a0",
+        "id": "2GggG2lQVYuus2aeAybe8M",
+        "reproducciones": 255895419
+    },
+    {
+        "nombre": "Te quiero",
+        "artista": "Hombres G",
+        "album": "Las baladas (Los singles vol II)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c90dfc53f551696fe742ad01",
+        "id": "6tu2FHuKL9C8pwNrityweQ",
+        "reproducciones": 387115489
+    },
+    {
+        "nombre": "Mentirosa",
+        "artista": "Elefante",
+        "album": "Elefante",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273033b8c6b300fb711d4d7b499",
+        "id": "2AW8HXB5U4QA0ZmApbRM0B",
+        "reproducciones": 164982956
+    },
+    {
+        "nombre": "Labios Compartidos",
+        "artista": "Maná",
+        "album": "Amar Es Combatir",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27306a335c72b44d0bcd4060fcc",
+        "id": "4C2zOFgrXxfNGNpYQWIcaH",
+        "reproducciones": 285572186
+    },
+    {
+        "nombre": "Te quiero igual",
+        "artista": "Andrés Calamaro",
+        "album": "Honestidad Brutal",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273ff005a174a4100e63335624c",
+        "id": "7qIw4D1PcDHigDohKkLB0W",
+        "reproducciones": 132055552
+    },
+    {
+        "nombre": "Frijolero",
+        "artista": "Molotov",
+        "album": "Dance And Dense Denso",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273fee079615e41899b497a7dda",
+        "id": "5YyetAy34sgROhslaW3BZc",
+        "reproducciones": 190668704
+    },
+    {
+        "nombre": "Te Lo Pido por Favor",
+        "artista": "Jaguares",
+        "album": "El Primer Instinto",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c96604f86f9e62feee9e9160",
+        "id": "6iRkrVOhCjgKFB2cBWnx4M",
+        "reproducciones": 233360846
+    },
+    {
+        "nombre": "Love",
+        "artista": "Zoé",
+        "album": "Rocanlover",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273ae18ed3e8c0b2f82d0eaf08c",
+        "id": "5tyznRXlcIx0XlQ7S8iCMW",
+        "reproducciones": 249290250
+    },
+    {
+        "nombre": "Como te extraño mi amor",
+        "artista": "Café Tacvba",
+        "album": "Avalancha de éxitos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27344fc111787f221cf5629a2b9",
+        "id": "6hFHsQWB7HdVrSe7efRR82",
+        "reproducciones": 250838294
+    },
+    {
+        "nombre": "Seguir Viviendo Sin Tu Amor",
+        "artista": "Luis Alberto Spinetta",
+        "album": "Peluson Of Milk",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273217ce66ac32c161c7516228c",
+        "id": "2qBirMakpTdz9ymxrZEyzg",
+        "reproducciones": 178790445
+    },
+    {
+        "nombre": "Mirala Miralo",
+        "artista": "Alejandra Guzman",
+        "album": "Libre",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c70410e00e1a225ddd828f55",
+        "id": "6GCNUmk7L7OWtpvSk0fWOg",
+        "reproducciones": 148096022
+    },
+    {
+        "nombre": "En La Ciudad De La Furia - Remasterizado 2007",
+        "artista": "Soda Stereo",
+        "album": "Doble Vida (Remastered)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27382cf3a9e2e2b6b1b3f994d38",
+        "id": "7J2885UBOaG6x3LLkp2YGf",
+        "reproducciones": 145097930
+    },
+    {
+        "nombre": "Soldadito marinero",
+        "artista": "Fito y Fitipaldis",
+        "album": "Lo mas lejos a tu lado",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a618985542a38277dc088c3a",
+        "id": "0eVborSuxUeSg0meWYd9dZ",
+        "reproducciones": 186895937
+    },
+    {
+        "nombre": "Irresponsables",
+        "artista": "Babasonicos",
+        "album": "Infame",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734febc01367fbd2d1ec9f1d60",
+        "id": "0dsViRiDTIuexAL42Nc1Kh",
+        "reproducciones": 193025672
+    },
+    {
+        "nombre": "Mentira",
+        "artista": "La Ley",
+        "album": "La Ley MTV Unplugged",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27359cc72552d7a7b58af7553f5",
+        "id": "5Em7MA991Gn3yhheaul0CX",
+        "reproducciones": 210870028
+    },
+    {
+        "nombre": "Mi Primer Dia Sin Ti",
+        "artista": "Los Enanitos Verdes",
+        "album": "Big Bang",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27335bf8a2179962114b8ec7585",
+        "id": "7eKkXV2jH4xGefItHAUk9g",
+        "reproducciones": 111064034
+    },
+    {
+        "nombre": "Mariposa tecknicolor",
+        "artista": "Fito Paez",
+        "album": "Circo Beat",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27301760d9291c8a82283da1013",
+        "id": "2RognU2ViRdA6HxnpAITJl",
+        "reproducciones": 178950357
+    },
+    {
+        "nombre": "Héroe de leyenda",
+        "artista": "Heroes Del Silencio",
+        "album": "El Mar No Cesa- Edición Especial",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b4970974d42cf1086f30edf4",
+        "id": "6pAvXn45z0sktftypuEEzt",
+        "reproducciones": 127817681
+    },
+    {
+        "nombre": "Oye Como Va",
+        "artista": "Santana",
+        "album": "Abraxas",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f1594eeff2ea90e0f3873919",
+        "id": "5u6y4u5EgDv0peILf60H5t",
+        "reproducciones": 185241042
+    },
+    {
+        "nombre": "Estrechez De Corazón",
+        "artista": "Los Prisioneros",
+        "album": "Coleccion Suprema",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c5246f80d22d902d0be31cbf",
+        "id": "4oR2kX5BI50GBnQGRdRRsM",
+        "reproducciones": 144845604
+    },
+    {
+        "nombre": "Luna de Miel en la Mano",
+        "artista": "Virus",
+        "album": "Locura",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273292c1ca632a1e120d1208c95",
+        "id": "1qWLCuCnNcQVVzJm4pu7Zv",
+        "reproducciones": 110068158
+    },
+    {
+        "nombre": "Para no olvidar",
+        "artista": "Los Rodriguez",
+        "album": "Palabras más, palabras menos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27385043aee35906b4ae5810d65",
+        "id": "1ZGs4W7LBJy68hRPTsvMFc",
+        "reproducciones": 107161046
+    },
+    {
+        "nombre": "Nos Siguen Pegando Abajo",
+        "artista": "Charly García",
+        "album": "Clics Modernos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b14842a87b833bc0a9339f60",
+        "id": "4VikOud5ZmdmHH6h7uQeDB",
+        "reproducciones": 120461867
+    },
+    {
+        "nombre": "Las piedras rodantes",
+        "artista": "El Tri",
+        "album": "Una rola para los minusválidos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734f05ec044e208292dc578d9e",
+        "id": "1gd7Q7mxviLWkG5HgvAMAc",
+        "reproducciones": 195984419
+    },
+    {
+        "nombre": "La ingrata",
+        "artista": "Café Tacvba",
+        "album": "Re",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2733b9211139eb247b12f6ba6c5",
+        "id": "19ScoKGqnfUggyqOVQjsoH",
+        "reproducciones": 156528266
+    },
+    {
+        "nombre": "La Muralla Verde",
+        "artista": "Los Enanitos Verdes",
+        "album": "Originales - 20 Exitos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b73b130ac6b4b5bef099831a",
+        "id": "1qvY1z3Wm3sAYeHfPTnrbI",
+        "reproducciones": 520398012
+    },
+    {
+        "nombre": "El amor después del amor",
+        "artista": "Fito Paez",
+        "album": "El Amor Después del Amor",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b80f37385bd537d17f9be93a",
+        "id": "1PQzZbitOJ6XPFg7FFzsKQ",
+        "reproducciones": 125661767
+    },
+    {
+        "nombre": "El Duelo",
+        "artista": "La Ley",
+        "album": "Invisible",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273ebd88db34e2219ca3121fe08",
+        "id": "3XHg42QOqlevRU7jXRkAKk",
+        "reproducciones": 124790981
+    },
+    {
+        "nombre": "Lago en el Cielo",
+        "artista": "Gustavo Cerati",
+        "album": "Ahí Vamos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0",
+        "id": "17eJyYLIlMNlOqcwHYJ9F2",
+        "reproducciones": 113463062
+    },
+    {
+        "nombre": "Pronta Entrega",
+        "artista": "Virus",
+        "album": "Locura",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273292c1ca632a1e120d1208c95",
+        "id": "4UXE0ZLGIoLUOFqTECzoQe",
+        "reproducciones": 93073433
+    },
+    {
+        "nombre": "Aunque no sea conmigo",
+        "artista": "Bunbury",
+        "album": "Hijos del pueblo",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273459bf80640ddf220ae68fe8c",
+        "id": "0dRY4OrSY53yUjVgfgne1W",
+        "reproducciones": 183816865
+    },
+    {
+        "nombre": "Corazon Espinado (feat. Mana)",
+        "artista": "Santana",
+        "album": "Supernatural (Remastered)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27347eb3ea5a92904c19e102e54",
+        "id": "2WoqgtWEBbbBKMDN6Becs7",
+        "reproducciones": 177685785
+    },
+    {
+        "nombre": "Demoliendo Hoteles",
+        "artista": "Charly García",
+        "album": "Piano Bar",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a89f53c13537b933a43d2600",
+        "id": "29iIRrSuANyjnwag69PHOJ",
+        "reproducciones": 92625235
+    },
+    {
+        "nombre": "Te Quiero Comer La Boca",
+        "artista": "La Mosca",
+        "album": "Buenos Muchachos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734d277e2867e87dd60be36f46",
+        "id": "6Y5k0NupErwLzOQXDxfVFa",
+        "reproducciones": 82992727
+    },
+    {
+        "nombre": "Sin documentos",
+        "artista": "Los Rodriguez",
+        "album": "Sin Documentos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273139d10e0ae979a7b4a811140",
+        "id": "6eOT73H5zfEwTCe1Y0FDCc",
+        "reproducciones": 187794689
+    },
+    {
+        "nombre": "Manuel Santillán, el León (Versión Reggae) - Remasterizado 2008",
+        "artista": "Los Fabulosos Cadillacs",
+        "album": "El León",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2736f41a299791d5833d41d78f2",
+        "id": "41MfyUSxQoo1BgIsNj8eDS",
+        "reproducciones": 105756610
+    },
+    {
+        "nombre": "Pobre soñador",
+        "artista": "El Tri",
+        "album": "25 años",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2736cb2eae5d5d6ec4e4002d106",
+        "id": "6UjxBtLPznyXztlMAFrtOW",
+        "reproducciones": 102917271
+    },
+    {
+        "nombre": "Tren Al Sur",
+        "artista": "Los Prisioneros",
+        "album": "Coleccion Suprema",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c5246f80d22d902d0be31cbf",
+        "id": "5nvS1vouQkX0HxOohfqCoS",
+        "reproducciones": 254084631
+    },
+    {
+        "nombre": "Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] - MTV Unplugged",
+        "artista": "Los Auténticos Decadentes",
+        "album": "Fiesta Nacional (Mtv Unplugged)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c1748abf863c594a825d8e9b",
+        "id": "0639sfoRA7sW4fGS1EzcQu",
+        "reproducciones": 187701343
+    },
+    {
+        "nombre": "Beber de Tu Sangre",
+        "artista": "Los Amantes De Lola",
+        "album": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e1f42ce94f61f178cfd9cdda",
+        "id": "3Gr4OWY7lAXAq7PpgUbctG",
+        "reproducciones": 129906539
+    },
+    {
+        "nombre": "Santa Lucia - Remastered 2005",
+        "artista": "Miguel Ríos",
+        "album": "Rocanrol Bumerang",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c8aaafcd4eaa30196d88ff34",
+        "id": "5bycn7SuJzYnxte0W54mNX",
+        "reproducciones": 129419926
+    },
+    {
+        "nombre": "La Lola",
+        "artista": "Café Quijano",
+        "album": "La Extraordinaria Paradoja Del Sonido Quijano",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27303d71dc052e9888666e5f08c",
+        "id": "0VnAETWOc4BCr4YbzfI7zH",
+        "reproducciones": 125434245
+    },
+    {
+        "nombre": "Parecemos tontos",
+        "artista": "Bunbury",
+        "album": "Expectativas",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273f7db708cafb6d5a7cf21dd82",
+        "id": "5KsZGdaJugVnu1Faccq22D",
+        "reproducciones": 94905589
+    },
+    {
+        "nombre": "Obsesión",
+        "artista": "Miguel Mateos",
+        "album": "Lo Esencial",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2734696839f7074c8dde6da5d38",
+        "id": "1l0mEM93oZMERzBmOCuiHe",
+        "reproducciones": 106249507
+    },
+    {
+        "nombre": "Es Por Ti",
+        "artista": "Inspector",
+        "album": "Inspector",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273ca0439be310d2581fae7e530",
+        "id": "3UYYwbchCP47jl2Q9tAhMc",
+        "reproducciones": 95832955
+    },
+    {
+        "nombre": "La chispa adecuada (Bendecida 3)",
+        "artista": "Heroes Del Silencio",
+        "album": "Avalancha",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273e55be22cd0085496fee07b29",
+        "id": "4vkSJSyPddHwL7v3l1cuRf",
+        "reproducciones": 134062710
+    },
+    {
+        "nombre": "Persiana Americana - Remasterizado 2007",
+        "artista": "Soda Stereo",
+        "album": "Me Verás Volver (Hits & Más)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273b49b1b486de0d62e8b4cade3",
+        "id": "5wCUdBsdubZ3ZFoJoRsMrY",
+        "reproducciones": 448368819
+    },
+    {
+        "nombre": "La chispa adecuada (feat. León Larregui) - MTV Unplugged",
+        "artista": "Bunbury",
+        "album": "MTV Unplugged. El Libro De Las Mutaciones",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c4b2565b271d850d1feda941",
+        "id": "5vnAu12wplLvx1XH01PwRH",
+        "reproducciones": 111245491
+    },
+    {
+        "nombre": "El Esqueleto",
+        "artista": "Victimas Del Doctor Cerebro",
+        "album": "Victimas Del Doctor Cerebro",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2731d37a8ec34257b55d2e65a9c",
+        "id": "0CucYEXuGngb0vfUMpOmID",
+        "reproducciones": 69978049
+    },
+    {
+        "nombre": "La flaca",
+        "artista": "Jarabe De Palo",
+        "album": "La Flaca - Edición 10º Aniversario",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273aef5ce2f4997ed15ebbc2977",
+        "id": "1MrZ8hGkUWMmT816wPaMgE",
+        "reproducciones": 680540321
+    },
+    {
+        "nombre": "La pachanga",
+        "artista": "Vilma Palma e Vampiros",
+        "album": "Lo Mejor de Vilma Palma",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27356c8a538c29de9bf55b24897",
+        "id": "0bIye27QbOvSrTAmCViX5O",
+        "reproducciones": 194451701
+    },
+    {
+        "nombre": "Desde Que",
+        "artista": "Liquits",
+        "album": "Jardin",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c46892a4a4b49ef03debad11",
+        "id": "4QLfVqOrpBOJra53EhlEX0",
+        "reproducciones": 74075098
+    },
+    {
+        "nombre": "Aquí",
+        "artista": "La Ley",
+        "album": "Uno",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273547bfabf73834f28cee47bf8",
+        "id": "4aDtCVcQCkR7zYa8jwLciP",
+        "reproducciones": 51549290
+    },
+    {
+        "nombre": "Aún",
+        "artista": "Coda",
+        "album": "Veinte Para Las Doce",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2737a6b273c6450ec5924070e8f",
+        "id": "1JTewgSxH7jQjolSwCn69u",
+        "reproducciones": 80624530
+    },
+    {
+        "nombre": "Mujer Amante - Vivo",
+        "artista": "Rata Blanca",
+        "album": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27341898892fb96a215204d6eaa",
+        "id": "5O5PY5HJNPxD7KyqU0SEhH",
+        "reproducciones": 87669292
+    },
+    {
+        "nombre": "Esa noche",
+        "artista": "Café Tacvba",
+        "album": "Re",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2733b9211139eb247b12f6ba6c5",
+        "id": "2jggaUpOvn2G6Pv2HCEU6m",
+        "reproducciones": 67459186
+    },
+    {
+        "nombre": "Así Es la Vida",
+        "artista": "Elefante",
+        "album": "Lo Que Andábamos Buscando (Special Para CEV)",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2736bc311ecff7b855508f961c3",
+        "id": "3ge3q3Hz0KWhQX5EAQcwEy",
+        "reproducciones": 326344458
+    },
+    {
+        "nombre": "Baracunatana",
+        "artista": "Aterciopelados",
+        "album": "Originales - 20 Exitos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2735d9e4fdf6bcdd703d0065cb4",
+        "id": "1SBwYuWcbpJOXZBlzWfJQw",
+        "reproducciones": 60671142
+    },
+    {
+        "nombre": "Veneno Vil",
+        "artista": "Fobia",
+        "album": "Amor Chiquito",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b2731bb1c32a8aa6c69d4d882642",
+        "id": "7lBKa0oQnv6w2AgFiBqRW2",
+        "reproducciones": 54587741
+    },
+    {
+        "nombre": "No Dejes Que",
+        "artista": "Jaguares",
+        "album": "El Primer Instinto",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273c96604f86f9e62feee9e9160",
+        "id": "3XluhR9U6ToARwWAl9W1QU",
+        "reproducciones": 59948973
+    },
+    {
+        "nombre": "Tornasol (Vuelves a Ser)",
+        "artista": "La Gusana Ciega",
+        "album": "La Gusana Ciega",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27328957092b45af5464a753ef5",
+        "id": "1BaNzcWE5fAJ6Ujh1CytzN",
+        "reproducciones": 65164956
+    },
+    {
+        "nombre": "Ojalá que llueva café",
+        "artista": "Café Tacvba",
+        "album": "Avalancha de éxitos",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27344fc111787f221cf5629a2b9",
+        "id": "7dDDsr1cMbpkE5MZLy8eHA",
+        "reproducciones": 41496617
+    },
+    {
+        "nombre": "La Carencia",
+        "artista": "Panteon Rococo",
+        "album": "Un Panteon Muy Vivo",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b27312703f68fc8f4d3695c676e9",
+        "id": "2UalqFij5ANcOwrPm9CtPb",
+        "reproducciones": 85063260
+    },
+    {
+        "nombre": "Gimme Tha Power",
+        "artista": "Molotov",
+        "album": "Donde Jugaran Las Niñas",
+        "imagen_url": "https://i.scdn.co/image/ab67616d0000b273a4fe7b7c54aeccb9f535b99c",
+        "id": "6grtIVjVPuZWup0fIXF900",
+        "reproducciones": 269408802
+    }
+]

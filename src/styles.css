@@ -1,1 +1,70 @@
 /* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Germania';
+    src: url('/fonts/GermaniaOne-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Honk';
+    src: url('/fonts/Honk-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Londrina';
+    src: url('/fonts/LondrinaShadow-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Reenie';
+    src: url('/fonts/ReenieBeanie-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Sen';
+    src: url('/fonts/Sen-VariableFont_wght.ttf') format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Zeyada';
+    src: url('/fonts/Zeyada-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+.germania {
+    font-family: 'Germania';
+}
+
+.honk {
+    font-family: 'Honk';
+}
+
+.londrina {
+    font-family: 'Londrina';
+}
+
+.reenie {
+    font-family: 'Reenie';
+}
+
+.sen {
+    font-family: 'Sen';
+}
+
+.zeyada {
+    font-family: 'Zeyada';
+}
