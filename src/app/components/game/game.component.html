@@ -2,6 +2,9 @@
 >
   Score: {{ score }} <span class="text-yellow-300 animate-pulse">⭐</span>
 </div>
+<button class="text-white text-5xl absolute top-6 right-6 hover:scale-125 z-10" (click)="goHome()">
+  <fa-icon [icon]="faHome" class="text-green-500 text-2xl m-auto border-4 border-gray-800 p-2 rounded-xl"></fa-icon>
+</button>
 
 <div class="flex flex-col md:flex-row h-screen overflow-hidden"  [ngClass]="{'cursor-not-allowed': isItemSelected}">
   <app-game-card 

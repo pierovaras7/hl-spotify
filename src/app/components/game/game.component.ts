@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { Component, EventEmitter, OnInit, Output } from '@angular/core';
+import { ActivatedRoute, Router } from '@angular/router';
 import { CommonModule, NgIf } from '@angular/common';
 import { ItemGame } from '../../interfaces/item.interface';
 import { FetchService } from '../../services/fetch.service';
@@ -7,11 +7,13 @@ import { isAlbumItem, isArtistItem, isTrackItem } from '../../interfaces/item-ga
 import { GameCardComponent } from '../game-card/game-card.component';
 import { GameResultComponent } from '../game-result/game-result.component';
 import { trigger, transition, animate, style} from '@angular/animations';
-import { faL } from '@fortawesome/free-solid-svg-icons';
+import { faHome} from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+
 
 @Component({
   selector: 'app-game',
-  imports: [NgIf, CommonModule, GameCardComponent, GameResultComponent],
+  imports: [NgIf, CommonModule, FontAwesomeModule, GameCardComponent, GameResultComponent],
   templateUrl: './game.component.html',
   styleUrls: ['./game.component.css'],
   animations: [
@@ -44,6 +46,7 @@ export class GameComponent implements OnInit {
   gameWon: boolean = false;
   isAnimating = false;
   showMetricAnother = false;
+  @Output() return: EventEmitter<void> = new EventEmitter();
 
   // Obtener data del modo de juego
   mood: string = '';
@@ -55,10 +58,12 @@ export class GameComponent implements OnInit {
   clickedLeft = false;
   clickedRight = false;
 
+  faHome = faHome;  
 
   constructor(
     private fetchService: FetchService,
-    private route: ActivatedRoute
+    private route: ActivatedRoute,
+    private router :Router
   ) {}
 
   async ngOnInit() {
@@ -223,5 +228,9 @@ export class GameComponent implements OnInit {
     this.itemRight = undefined;
 
     this.cargarDatos(); 
+  }
+
+  goHome(){
+    this.router.navigate(['/']);
   }
 }
