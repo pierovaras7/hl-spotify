@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { GameOverComponent } from './game-over.component';
+import { GifCardComponent } from './gif-card.component';
 
-describe('GameOverComponent', () => {
-  let component: GameOverComponent;
-  let fixture: ComponentFixture<GameOverComponent>;
+describe('GifCardComponent', () => {
+  let component: GifCardComponent;
+  let fixture: ComponentFixture<GifCardComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [GameOverComponent]
+      imports: [GifCardComponent]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(GameOverComponent);
+    fixture = TestBed.createComponent(GifCardComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

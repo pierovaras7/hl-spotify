@@ -1,32 +1,19 @@
-.game-container {
-    text-align: center;
-    font-family: Arial, sans-serif;
+
   
-    .track {
-      background: #222;
-      color: #fff;
-      padding: 20px;
-      margin: 10px;
-      border-radius: 8px;
-      img {
-        width: 150px;
-        border-radius: 8px;
-      }
+  @keyframes rotateCoin {
+    0% {
+      transform: rotateY(0);
     }
-  
-    button {
-      margin: 10px;
-      padding: 10px;
-      cursor: pointer;
-      border: none;
-      border-radius: 5px;
-      font-size: 18px;
-      transition: 0.3s;
-  
-      &:hover {
-        background: #1DB954; 
-        color: white;
-      }
+    100% {
+      transform: rotateY(360deg);
     }
   }
+  
+  .card-center {
+    animation: rotateCoin 1s ease-in-out forwards;
+    transform-origin: center; /* Asegura que la rotación se mantenga en el centro */
+
+  }
+  
+  
   

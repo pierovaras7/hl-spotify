@@ -1,0 +1,6 @@
+.card {
+    @apply relative w-full h-40 bg-cover bg-center rounded-xl shadow-xl transition-all duration-300 hover:scale-105;
+}
+.overlay {
+    @apply absolute inset-0 flex items-center justify-center text-white font-bold bg-black/50;
+}

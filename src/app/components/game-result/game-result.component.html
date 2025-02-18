@@ -1,0 +1,27 @@
+<div *ngIf="gameOver || gameWon" 
+     class="fixed top-0 left-0 z-50 h-full w-full bg-cover bg-center p-8 shadow-xl rounded-lg flex items-center justify-center md:bg-top "
+     [ngStyle]="{'background-image': backgroundGif}">
+
+  <div class="bg-black/60 p-8 rounded-2xl shadow-lg w-2/3 lg:w-1/3 text-center">
+    <h1 class="text-3xl md:text-5xl germania font-extrabold text-white mb-4 animate-bounce">
+        {{ gameWon ? '¡Victoria Absoluta! 🚀' : 'Derrota Inminente 😵' }}
+      </h1>
+      <p class="text-lg md:text-2xl text-white sen">
+        {{ gameWon ? '¡Ni Thanos pudo contigo! ✨' : 'Y así terminó tu legado... por ahora. 🔄' }}
+      </p>
+      
+    <p class="sen text-xl my-6 text-white uppercase">
+      Puntuación: {{ score }} <span class="text-yellow-300 animate-pulse">⭐</span>
+    </p>
+    <div class="flex flex-col md:flex-row gap-4 w-full justify-center">
+        <button (click)="onRestart()" 
+                class="bg-slate-800 hover:bg-slate-500 text-white py-3 px-6 rounded-lg transition-all transform hover:scale-105 duration-300 ease-in-out uppercase reenie text-xl">
+                🔁 Nuevo Juego
+        </button>
+        <button (click)="goHome()" 
+                class="bg-slate-800 hover:bg-slate-500 text-white py-3 px-6 rounded-lg transition-all transform hover:scale-105 duration-300 ease-in-out uppercase reenie text-xl">
+                🏠 Ir al inicio
+        </button>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,41 @@
+<div 
+  class="h-full w-full transform transition-all duration-300 bg-cover" 
+  [@fadeInOut]="isAnimating ? 'void' : '*'"
+  [style.backgroundImage]="'url(' + getImageUrl(currentItem) + ')'"
+>
+  <div class="absolute inset-0 bg-black/50"></div>
+
+  <div class="relative w-full h-full flex items-center justify-center">
+
+    <!-- Contenido del card centrado sobre el fondo -->
+    <div class="relative z-10 text-white text-center p-6 h-full flex flex-col items-center justify-center">
+      <!-- Sección de Canción -->
+      <ng-container *ngIf="isTrackItem(currentItem)">
+        <h2 class="text-3xl font-semibold text-shadow-md tracking-wide germania">{{ currentItem.nombre }}</h2>
+        <p class="mt-2 text-xl font-medium sen">{{ currentItem.album }}</p>
+        <p class="text-4xl m-3 opacity-80 reenie">{{ currentItem.artista }}</p>
+      </ng-container>
+
+      <!-- Sección de Álbum -->
+      <ng-container *ngIf="isAlbumItem(currentItem)">
+        <h2 class="text-3xl font-semibold text-shadow-md tracking-wide germania">{{ currentItem.album }}</h2>
+        <p class="text-lg opacity-80 reenie">{{ currentItem.artists }}</p>
+      </ng-container>
+
+      <!-- Sección de Artista -->
+      <ng-container *ngIf="isArtistItem(currentItem)">
+        <h2 class="text-3xl font-semibold text-shadow-md tracking-wide germania">{{ currentItem.artist }}</h2>
+      </ng-container>
+
+      <!-- Métrica con efecto de conteo -->
+      <p *ngIf="showMetric()" [@metricBounce] 
+       class="mt-4 text-3xl text-white font-bold transition-all duration-500 transform hover:scale-110 germania flex flex-col">
+        {{ getMetricLabel().toUpperCase() }}: 
+        <span class="text-yellow-400 text-5xl">
+            {{ getMetricValue() | number}} <!-- Muestra el valor animado -->
+        </span>
+      </p>
+    </div>
+
+  </div>
+</div>

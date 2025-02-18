@@ -1,61 +1,54 @@
-<div class="bg-gray-900 text-white flex justify-center items-center h-screen text-center">
+<div class="bg-gray-900 text-white flex justify-center items-center min-h-screen text-center">
     <button class="text-white text-5xl absolute top-6 right-6 hover:scale-125" (click)="goStart()">
-        <fa-icon [icon]="faHome" 
-          class="text-green-500 text-2xl m-auto border-4 border-gray-800 p-2 rounded-xl">
-        </fa-icon>
+        <fa-icon [icon]="faHome" class="text-green-500 text-2xl m-auto border-4 border-gray-800 p-2 rounded-xl"></fa-icon>
     </button>
-      
-    <!-- Inicio-->
-    <div *ngIf="!showMoods && !showCategories && !showOptions" @fadeIn class="flex flex-col items-center justify-center bg-gif">
+
+    <!-- Inicio -->
+    <div *ngIf="!showMoods && !showCategories && !showOptions" @fadeIn class="flex flex-col items-center justify-center bg-gif p-4 w-full h-full">
         <h1 class="text-4xl lg:text-8xl font-bold text-cyan-400 mb-4 animate-bounce honk">Higher or Lower</h1>
         <p class="text-2xl text-gray-300 mb-6 germania flex gap-2 items-center justify-center">
-        <fa-icon [icon]="faSpotify" class="text-green-500 text-4xl"></fa-icon>
-        Spotify's Version.</p>
-        <button (click)="startGame()" class="bg-green-600 hover:bg-green-500 text-white px-6 py-3 rounded-lg font-semibold shadow-lg transform transition hover:scale-105 sen w-1/2">
+            <fa-icon [icon]="faSpotify" class="text-green-500 text-4xl"></fa-icon>
+            Spotify's Version.
+        </p>
+        <button (click)="startGame()" class="bg-green-600 hover:bg-green-500 text-white px-6 py-3 rounded-lg font-semibold shadow-lg transform transition hover:scale-105 sen w-1/2 md:w-1/3">
             Comenzar
         </button>
     </div>
+
     <!-- Seleccionar Mood -->
-    <div *ngIf="showMoods && !showCategories" @fadeIn class="flex flex-col gap-6 md:w-3/4">
-        <h2 class="text-5xl font-semibold mb- reenie">Elegir el modo de juego</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8 p-4">
-            <button *ngFor="let mood of moods" (click)="selectMood(mood)" class="card"
-            [ngStyle]="{ 'background-image': 'url(img/' + mood + '.gif)' }">
-                <span class="honk text-3xl md:text-5xl overlay">{{ mood.toUpperCase() }}</span>
-            </button>
-          </div>
-        <button (click)="goStart()" class="flex items-center justify-center">
-            <fa-icon [icon]="faCircleLeft" 
-            class="text-gray-500 text-2xl p-2 rounded-xl">
-            </fa-icon>
-            <p class="text-gray-400 hover:underline reenie text-2xl ">Volver</p>
-        </button>
-    </div>
-    <!-- Seleccionar Categories -->
-    <div *ngIf="showCategories" @fadeIn class="flex flex-col gap-6 md:w-3/4">
-        <h2 class="text-5xl font-semibold mb- reenie">Elige una categoria</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-8 p-4">
-                <button (click)="selectCategory('artist')" class="card"
-                [ngStyle]="{ 'background-image': 'url(img/artista.gif)' }">
-                <span class="honk text-3xl md:text-5xl overlay">ARTISTA</span>
-            </button>
-            <button (click)="selectCategory('genre')"  class="card"
-            [ngStyle]="{ 'background-image': 'url(img/genero.gif)' }">  <span class="honk text-3xl md:text-5xl overlay">GENERO</span>
-        </button>
+    <div *ngIf="showMoods && !showCategories" @fadeIn class="flex flex-col gap-6 p-4 w-full md:w-3/4 justify-center">
+        <h2 class="text-2xl md:text-5xl font-semibold mb-4 reenie">Elegir el modo de juego</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-8 p-4">
+            <app-gif-card *ngFor="let mood of moods" 
+                [image]="mood" 
+                [text]="mood.toUpperCase()" 
+                (click)="selectMood(mood)">
+            </app-gif-card>
         </div>
-        <button (click)="goBackMood()" class="mt-4 text-gray-400 underline">Volver</button>
+        <app-return (action)="goStart()"></app-return>
     </div>
-    <!-- Seleccionar Option -->
-    <div *ngIf="showOptions" @fadeIn class="flex flex-col gap-6 w-5/6 md:w-3/4">
-        <h2 class="text-5xl font-semibold mb- reenie">Selecciona un {{ selectedCategory }}</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8 p-4">
-            <button *ngFor="let option of options" 
-                (click)="startGameWithSelection(option)" 
-                class="card"
-                [ngStyle]="{ 'background-image': 'url(img/' + sanitizeOption(option) + '.gif)' }">
-                <span class="honk text-3xl lg:text-5xl overlay">{{option}}</span>
-            </button>
+
+    <!-- Seleccionar Categoría -->
+    <div *ngIf="showCategories" @fadeIn class="flex flex-col gap-6 w-full h-full p-4 md:w-3/4 justify-center">
+        <h2 class="text-2xl md:text-5xl font-semibold mb-4 reenie">Elige una categoría</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4 md:gap-8 p-4">
+            <app-gif-card [image]="'artista'" [text]="'ARTISTA'" (click)="selectCategory('artist')"></app-gif-card>
+            <app-gif-card [image]="'genero'" [text]="'GÉNERO'" (click)="selectCategory('genre')"></app-gif-card>
         </div>
-        <button (click)="goBackToCategories()" class="mt-4 text-gray-400 underline">Volver</button>
+        <app-return (action)="goBackMood()">Volver</app-return>
+    </div>
+
+    <!-- Seleccionar Opción -->
+    <div *ngIf="showOptions" @fadeIn class="flex flex-col gap-6 w-full h-full p-4 md:w-3/4 justify-center ">
+        <h2 class="text-2xl md:text-5xl font-semibold mb-4 reenie">Selecciona un <span *ngIf="selectedCategory === 'artist'">artista</span>
+            <span *ngIf="selectedCategory === 'genre'">género musical</span></h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8 p-4 my-4">
+            <app-gif-card *ngFor="let option of options" 
+                         [image]="sanitizeOption(option)" 
+                         [text]="option"
+                         (click)="startGameWithSelection(option)">
+            </app-gif-card>
+        </div>
+        <app-return (action)="goBackToCategories()">Volver</app-return>
     </div>
 </div>

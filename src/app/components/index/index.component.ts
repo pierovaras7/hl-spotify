@@ -3,14 +3,16 @@ import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faSpotify} from '@fortawesome/free-brands-svg-icons';
-import { faHome, faCircleLeft } from '@fortawesome/free-solid-svg-icons';
+import { faHome} from '@fortawesome/free-solid-svg-icons';
 
 import { trigger, style, transition, animate } from '@angular/animations';
+import { GifCardComponent } from '../gif-card/gif-card.component';
+import { ReturnComponent } from '../return/return.component';
 
 
 @Component({
   selector: 'app-index',
-  imports: [NgIf, NgFor, FontAwesomeModule, NgStyle ],
+  imports: [NgIf, NgFor, FontAwesomeModule, GifCardComponent, ReturnComponent],
   templateUrl: './index.component.html',
   styleUrl: './index.component.css',
   animations: [
@@ -39,7 +41,6 @@ export class IndexComponent {
   urlSegments: any[] = [];
 
   faSpotify = faSpotify;
-  faCircleLeft = faCircleLeft
   faHome = faHome;
 
   constructor (private router :Router){}
